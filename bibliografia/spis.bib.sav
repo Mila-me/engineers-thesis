@@ -54,4 +54,10 @@
   publisher    = {{MDPI} {AG}},
 }
 
+@Misc{pico2024,
+  date  = {2024-04-06},
+  title = {Raspberry Pi Pico(RP2040)},
+  url   = {https://www.raspberrypi.com/products/raspberry-pi-pico/},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

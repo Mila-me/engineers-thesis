@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: praca_dyplomowa2.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+The style file: ../bibliografia/plainurl.bst
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: ../bibliografia/spis.bib
+Warning--to sort, need author or key in pico2024
+Warning--empty journal in Augustin2016
+Warning--empty year in Augustin2016
+You've used 6 entries,
+            2849 wiz_defined-function locations,
+            655 strings with 6174 characters,
+and the built_in function-call counts, 2380 in all, are:
+= -- 231
+> -- 89
+< -- 0
++ -- 35
+- -- 28
+* -- 144
+:= -- 335
+add.period$ -- 20
+call.type$ -- 6
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 56
+empty$ -- 240
+format.name$ -- 28
+if$ -- 618
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 2
+newline$ -- 35
+num.names$ -- 6
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 28
+quote$ -- 0
+skip$ -- 169
+stack$ -- 0
+substring$ -- 67
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 3
+while$ -- 8
+width$ -- 7
+write$ -- 67
+(There were 3 warnings)

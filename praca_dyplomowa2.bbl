@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{pico2024}
+Raspberry pi pico(rp2040).
+\newblock URL: \url{https://www.raspberrypi.com/products/raspberry-pi-pico/}.
+
+\bibitem{wiki:telegraf}
+{Telegraf}.
+\newblock [online], marzec 2022.
+\newblock [dostęp: 2022-10-31 14:00Z].
+
+\bibitem{wiki:internet}
+{Internet}.
+\newblock [online], wrzesień 2022.
+\newblock [dostęp: 2022-10-31 14:07Z].
+
+\bibitem{Augustin2016}
+Aloÿs Augustin, Jiazi Yi, Thomas Clausen, and William Townsley.
+\newblock A study of {LoRa}: Long range {\&}amp$\mathsemicolon$ low power
+  networks for the internet of things.
+\newblock 16(9):1466.
+\newblock \href {http://dx.doi.org/10.3390/s16091466}
+  {\path{doi:10.3390/s16091466}}.
+
+\bibitem{doi:10.1126/sciadv.aaw3916}
+Louis-Jean Boë, Thomas~R. Sawallis, Joël Fagot, Pierre Badin, Guillaume
+  Barbier, Guillaume Captier, Lucie Ménard, Jean-Louis Heim, and Jean-Luc
+  Schwartz.
+\newblock Which way to the dawn of speech?: Reanalyzing half a century of
+  debates and data in light of speech science.
+\newblock {\em Science Advances}, 5(12):eaaw3916, 2019.
+\newblock URL: \url{https://www.science.org/doi/abs/10.1126/sciadv.aaw3916},
+  \href
+  {http://arxiv.org/abs/https://www.science.org/doi/pdf/10.1126/sciadv.aaw3916}
+  {\path{arXiv:https://www.science.org/doi/pdf/10.1126/sciadv.aaw3916}}, \href
+  {http://dx.doi.org/10.1126/sciadv.aaw3916}
+  {\path{doi:10.1126/sciadv.aaw3916}}.
+
+\bibitem{enwiki:lora}
+{Wikipedia contributors}.
+\newblock Lora --- {Wikipedia}{,} the free encyclopedia, 2022.
+\newblock [Online; accessed 31-October-2022].
+\newblock URL:
+  \url{https://en.wikipedia.org/w/index.php?title=LoRa&oldid=1112695195}.
+
+\end{thebibliography}

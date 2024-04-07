@@ -1,0 +1,73 @@
+\chapter{Tekst źródłowy programu na mikrokontroler}
+
+
+\begin{lstlisting}[language=python,xleftmargin=0pt,  backgroundcolor={\color{white}}, caption={}, frame=""]
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.std_logic_arith.all;
+
+entity wave is
+port (
+  clk, reset : in std_logic;                           
+  t_l, t_h   : in std_logic_vector(31 downto 0);  
+  w          : out std_logic);
+end wave;
+
+architecture rtl of wave is
+type FSM is (IDLE, PH, PL);
+signal state, next_state: FSM;
+signal timer : std_logic_vector(31 downto 0);
+signal resetc: std_logic;
+
+begin
+RS_PROC:
+process (clk, reset)
+begin
+  if (reset='0') then 
+    state <= IDLE;
+  elsif (rising_edge(clk)) then
+    state <= next_state;
+  end if;
+end process;
+
+
+NS_PROC:
+process (state, t_l, t_h, timer)
+begin
+  case state is
+  when  idle =>
+  if (t_l = 0 or t_h = 0) then 
+    next_state <= idle;
+  else 
+    next_state <= PH;
+  end if;
+  
+  when PH =>  
+  if (timer < t_h - 1) then  
+    next_state <= PH;
+  else
+    next_state <= PL;
+  end if;
+    
+  when PL =>
+  if (timer < t_l - 1) then
+    next_state <= PL;
+  else
+    next_state <= PH;    
+   end if;    
+end case;
+end process;
+
+
+DW_PROC:
+process (state)
+begin
+  if    (state = PH) then   w <= '1';
+  elsif (state = PL) then   w <= '0';
+  end if;
+end process;
+end if;
+end process;
+end rtl;
+\end{lstlisting}

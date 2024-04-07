@@ -1,0 +1,2791 @@
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.3.31) (format=lualatex 2024.4.6)  6 APR 2024 20:19
+ restricted system commands enabled.
+**praca_dyplomowa2.tex
+(./praca_dyplomowa2.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/Emil Michalik/AppData/Loca
+l/MiKTeX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/luatex/luao
+tfload/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/Emil Michalik/AppData/Loca
+l/MiKTeX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/memoir/memoir.
+cls"
+Document Class: memoir 2024/01/26 v3.8.2 configurable book, report, article doc
+ument class
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.
+sty"
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3
+.sty"
+Package: expl3 2024-03-14 L3 programming layer (loader) 
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3ba
+ckend-luatex.def"
+File: l3backend-luatex.def 2024-03-14 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count186
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box51
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xpa
+rse/xparse.sty"
+Package: xparse 2024-03-14 L3 Experimental document command parser
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etool
+box.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+))
+\onelineskip=\skip48
+\lxvchars=\skip49
+\xlvchars=\skip50
+\@memcnta=\count188
+\c@@memmarkcntra=\count189
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.
+sty"
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\trimtop=\skip51
+\trimedge=\skip52
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem11.c
+lo"
+File: mem11.clo 2022/07/29 v0.5 memoir class 11pt size option
+luaotfload | db : Font names database loaded from C:/Users/Emil Michalik/AppData
+/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\binding=\skip53
+\spinemargin=\skip54
+\foremargin=\skip55
+\uppermargin=\skip56
+\lowermargin=\skip57
+\headdrop=\skip58
+\normalrulethickness=\skip59
+\mem@maxheadheight=\skip60
+\mem@maxfootheight=\skip61
+\headwidth=\skip62
+\c@storedpagenumber=\count190
+\memPD=\dimen139
+\m@mabparskip=\skip63
+\thanksmarkwidth=\skip64
+\thanksmarksep=\skip65
+\droptitle=\skip66
+\c@book=\count191
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\beforechapskip=\skip67
+\midchapskip=\skip68
+\afterchapskip=\skip69
+\chapindent=\skip70
+\bottomsectionskip=\skip71
+\secindent=\skip72
+\beforesecskip=\skip73
+\aftersecskip=\skip74
+\subsecindent=\skip75
+\beforesubsecskip=\skip76
+\aftersubsecskip=\skip77
+\subsubsecindent=\skip78
+\beforesubsubsecskip=\skip79
+\aftersubsubsecskip=\skip80
+\paraindent=\skip81
+\beforeparaskip=\skip82
+\afterparaskip=\skip83
+\subparaindent=\skip84
+\beforesubparaskip=\skip85
+\aftersubparaskip=\skip86
+\pfbreakskip=\skip87
+\c@@ppsavesec=\count199
+\c@@ppsaveapp=\count266
+\ragrparindent=\dimen140
+\everylistparindent=\dimen141
+\parsepi=\skip88
+\topsepi=\skip89
+\itemsepi=\skip90
+\parsepii=\skip91
+\topsepii=\skip92
+\topsepiii=\skip93
+\itemsepii=\skip94
+\itemsepiii=\skip95
+\partopsepii=\skip96
+\partopsepiii=\skip97
+\m@msavetopsep=\skip98
+\m@msavepartopsep=\skip99
+\@enLab=\toks17
+\abstitleskip=\skip100
+\absleftindent=\skip101
+\abs@leftindent=\dimen142
+\absrightindent=\skip102
+\absparindent=\skip103
+\absparsep=\skip104
+\c@vslineno=\count267
+\c@poemline=\count268
+\c@modulo@vs=\count269
+\c@memfvsline=\count270
+\vleftskip=\skip105
+\vrightskip=\skip106
+\stanzaskip=\skip107
+\versewidth=\skip108
+\vgap=\skip109
+\vindent=\skip110
+\vleftmargin=\dimen143
+\c@verse=\count271
+\c@chrsinstr=\count272
+\beforepoemtitleskip=\skip111
+\afterpoemtitleskip=\skip112
+\c@poem=\count273
+\beforePoemTitleskip=\skip113
+\midPoemTitleskip=\skip114
+\afterPoemTitleskip=\skip115
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.st
+y"
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen144
+\ar@mcellbox=\box52
+\extrarowheight=\dimen145
+\NC@list=\toks18
+\extratabsurround=\skip116
+\backup@length=\skip117
+\ar@cellbox=\box53
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.
+sty"
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray
+.sty"
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx
+.sty"
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen146
+\TX@old@table=\dimen147
+\TX@old@col=\dimen148
+\TX@target=\dimen149
+\TX@delta=\dimen150
+\TX@cols=\count274
+\TX@ftn=\toks19
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/bookt
+abs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count275
+\@cmidlb=\count276
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count277
+\@lastruleclass=\count278
+\@thisrulewidth=\dimen163
+)
+\ctableftskip=\skip118
+\ctabrightskip=\skip119
+\abovecolumnspenalty=\count279
+\@linestogo=\count280
+\@cellstogo=\count281
+\@cellsincolumn=\count282
+\crtok=\toks20
+\@mincolumnwidth=\dimen164
+\c@newflo@tctr=\count283
+\mem@margin@floatbox=\box54
+\@contcwidth=\skip120
+\@contindw=\skip121
+\abovecaptionskip=\skip122
+\belowcaptionskip=\skip123
+\subfloattopskip=\skip124
+\subfloatcapskip=\skip125
+\subfloatcaptopadj=\skip126
+\subfloatbottomskip=\skip127
+\subfloatlabelskip=\skip128
+\subfloatcapmargin=\dimen165
+\c@@contsubnum=\count284
+\m@mscap@capbox=\box55
+\m@mscap@fbox=\box56
+\sidecapsep=\dimen166
+\sidecapwidth=\dimen167
+\m@m@tempdima=\dimen168
+\m@mscapraise=\dimen169
+\sidecapraise=\dimen170
+\m@mscapmainwidth=\dimen171
+\m@mscaplkern=\dimen172
+\beforeepigraphskip=\skip129
+\afterepigraphskip=\skip130
+\epigraphwidth=\skip131
+\epigraphrule=\skip132
+LaTeX Info: Redefining \em on input line 6932.
+LaTeX Info: Redefining \emph on input line 6940.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/namer
+ef.sty"
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refco
+unt.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxc
+mds.sty"
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/in
+fwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestri
+ng/gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvop
+tions.sty"
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyva
+l.sty"
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvse
+tkeys.sty"
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count285
+)
+\tocentryskip=\skip133
+\tocbaseline=\skip134
+\cftparskip=\skip135
+\cftbeforebookskip=\skip136
+\cftbookindent=\dimen173
+\cftbooknumwidth=\dimen174
+\cftbeforepartskip=\skip137
+\cftpartindent=\skip138
+\cftpartnumwidth=\skip139
+\cftbeforechapterskip=\skip140
+\cftchapterindent=\skip141
+\cftchapternumwidth=\skip142
+\cftbeforesectionskip=\skip143
+\cftsectionindent=\skip144
+\cftsectionnumwidth=\skip145
+\cftbeforesubsectionskip=\skip146
+\cftsubsectionindent=\skip147
+\cftsubsectionnumwidth=\skip148
+\cftbeforesubsubsectionskip=\skip149
+\cftsubsubsectionindent=\skip150
+\cftsubsubsectionnumwidth=\skip151
+\cftbeforeparagraphskip=\skip152
+\cftparagraphindent=\skip153
+\cftparagraphnumwidth=\skip154
+\cftbeforesubparagraphskip=\skip155
+\cftsubparagraphindent=\skip156
+\cftsubparagraphnumwidth=\skip157
+\prechapterprecisshift=\dimen175
+\c@maxsecnumdepth=\count286
+\bibindent=\dimen176
+\bibitemsep=\skip158
+\indexcolsep=\skip159
+\indexrule=\skip160
+\indexmarkstyle=\toks22
+\@indexbox=\insert252
+LaTeX Info: Redefining \raggedbottom on input line 7935.
+LaTeX Info: Redefining \flushbottom on input line 7939.
+\glossarycolsep=\dimen177
+\glossaryrule=\dimen178
+\sideparvshift=\skip161
+\sideins=\insert251
+\sidebartopsep=\skip162
+\sidebarhsep=\skip163
+\sidebarvsep=\skip164
+\sidebarwidth=\skip165
+\footmarkwidth=\skip166
+\footmarksep=\skip167
+\footparindent=\skip168
+\footinsdim=\skip169
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count287
+\m@m@h=\dimen179
+\m@mipn@skip=\skip170
+\sidefootins=\insert248
+\sidefootadjust=\skip171
+\sidefootheight=\skip172
+\sidefoothsep=\skip173
+\sidefootvsep=\skip174
+\sidefootwidth=\skip175
+\m@mdownsf=\skip176
+\c@sidefootnote=\count288
+\sidefootmarkwidth=\skip177
+\sidefootmarksep=\skip178
+\sidefootparindent=\skip179
+\c@pagenote=\count289
+\c@pagenoteshadow=\count290
+\mem@pn@lastkern=\skip180
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim
+.sty"
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+\verbatimindent=\skip181
+\verbatim@out=\write3
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/base/shortvrb.
+sty"
+Package: shortvrb 2022/11/13 v3.0m Standard LaTeX documentation package V3 (FMi
+)
+)
+\bvboxsep=\skip182
+\c@memfbvline=\count291
+\c@bvlinectr=\count292
+\bvnumlength=\skip183
+\fb@frw=\dimen180
+\fb@frh=\dimen181
+\FrameRule=\dimen182
+\FrameSep=\dimen183
+\c@cp@cntr=\count293
+\c@ism@mctr=\count294
+\c@xsm@mctr=\count295
+\c@csm@mctr=\count296
+\c@ksm@mctr=\count297
+\c@xksm@mctr=\count298
+\c@cksm@mctr=\count299
+\c@msm@mctr=\count300
+\c@xmsm@mctr=\count301
+\c@cmsm@mctr=\count302
+\c@bsm@mctr=\count303
+\c@workm@mctr=\count304
+\c@sheetsequence=\count305
+\c@lastsheet=\count306
+\c@lastpage=\count307
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textc
+ase.sty"
+Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count308
+\c@lofdepth=\count309
+\cftbeforefigureskip=\skip184
+\cftfigureindent=\skip185
+\cftfigurenumwidth=\skip186
+\c@table=\count310
+\c@lotdepth=\count311
+\cftbeforetableskip=\skip187
+\cfttableindent=\skip188
+\cfttablenumwidth=\skip189
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/unicode-math/u
+nicode-math.sty"
+Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/unicode-math/u
+nicode-math-luatex.sty"
+Package: unicode-math-luatex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaL
+aTeX
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3k
+eys2e/l3keys2e.sty"
+Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fonts
+pec.sty"
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/02/13 2.9a Font selection for XeLaTeX and LuaLaTeX
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fonts
+pec-luatex.sty"
+Package: fontspec-luatex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count312
+\l__fontspec_language_int=\count313
+\l__fontspec_strnum_int=\count314
+\l__fontspec_tmp_int=\count315
+\l__fontspec_tmpa_int=\count316
+\l__fontspec_tmpb_int=\count317
+\l__fontspec_tmpc_int=\count318
+\l__fontspec_em_int=\count319
+\l__fontspec_emdef_int=\count320
+\l__fontspec_strong_int=\count321
+\l__fontspec_strongdef_int=\count322
+\l__fontspec_tmpa_dim=\dimen184
+\l__fontspec_tmpb_dim=\dimen185
+\l__fontspec_tmpc_dim=\dimen186
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.s
+ty"
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fonts
+pec.cfg")))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/base/fix-cm.st
+y"
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1enc.de
+f"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmat
+h.sty"
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip190
+
+For additional information on amsmath, use the `?' option.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstex
+t.sty"
+Package: amstext 2021/08/26 v2.01 AMS text
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen
+.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen187
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy
+.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen188
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn
+.sty"
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count323
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count324
+\leftroot@=\count325
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count326
+\DOTSCASE@=\count327
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen189
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count328
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count329
+\dotsspace@=\muskip16
+\c@parentequation=\count330
+\dspbrk@lvl=\count331
+\tag@help=\toks26
+\row@=\count332
+\column@=\count333
+\maxfields@=\count334
+\andhelp@=\toks27
+\eqnshift@=\dimen190
+\alignsep@=\dimen191
+\tagshift@=\dimen192
+\tagwidth@=\dimen193
+\totwidth@=\dimen194
+\lineht@=\dimen195
+\@envbody=\toks28
+\multlinegap=\skip191
+\multlinetaggap=\skip192
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/lualatex/lualatex-ma
+th/lualatex-math.sty"
+Package: lualatex-math 2022/01/01 v1.12 Patches for mathematics typesetting wit
+h LuaLaTeX
+Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
+h LuaLaTeX)
+\g__um_fam_int=\count335
+\g__um_fonts_used_int=\count336
+\l__um_primecount_int=\count337
+\g__um_primekern_muskip=\muskip17
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/unicode-math/u
+nicode-math-table.tex")))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/po
+lyglossia.sty"
+Package: polyglossia 2024/03/07 v2.1 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyva
+l.sty"
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkey
+val.tex"
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvu
+tils.tex"
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count338
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/luatex/luatexbase/lu
+atexbase.sty"
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/luatex/ctablestack/c
+tablestack.sty"
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count339
+)
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
+)
+Lua module: polyglossia 2013/05/11 1.3 Polyglossia
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/gl
+oss-latex.ldf"
+File: gloss-latex.ldf polyglossia: module for default language
+)
+Package polyglossia Info: Default language is latex.
+Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz.
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/gl
+oss-polish.ldf"
+File: gloss-polish.ldf polyglossia: module for Polish
+Module polyglossia Info: Language data for polish
+(polyglossia)            loader	loadhyph-pl.tex
+(polyglossia)            hyphenation	hyph-pl.hyp.txt
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            synonyms	
+(polyglossia)            righthyphenmin	2
+(polyglossia)            patterns	hyph-pl.pat.txt on input line 14
+Module polyglossia Info: Language polish was not yet loaded; created with id 2 o
+n input line 14
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/luatex/luavlna/luavl
+na.sty"
+Package: luavlna 2023-06-21 luavlna
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/luatex/luavlna/luavl
+na.tex"
+Inserting `LuaVlna' in `pre_linebreak_filter'.
+Inserting `allow hyphen breaks' in `hyphenate'.))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/polyglossia/ba
+belsh.def"
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 42.
+)
+Package polyglossia Info: Default language is polish.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geome
+try.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex
+.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count340
+\Gm@cntv=\count341
+\c@Gm@tempcnt=\count342
+\Gm@bindingoffset=\dimen196
+\Gm@wd@mp=\dimen197
+\Gm@odd@mp=\dimen198
+\Gm@even@mp=\dimen199
+\Gm@layoutwidth=\dimen256
+\Gm@layoutheight=\dimen257
+\Gm@layouthoffset=\dimen258
+\Gm@layoutvoffset=\dimen259
+\Gm@dimlist=\toks32
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geome
+try.cfg"))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyper
+ref.sty"
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys
+/kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pd
+fescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/p
+dftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks33
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolo
+r.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhoo
+k.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen260
+\Hy@linkcounter=\count343
+\Hy@pagecounter=\count344
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1en
+c.def"
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intc
+alc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count345
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc
+.def"
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count346
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty"
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen261
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitse
+t.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/b
+igintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count347
+\Field@Width=\dimen262
+\Fld@charsize=\dimen263
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-
+ltx.sty"
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count348
+\c@Item=\count349
+\c@Hfootnote=\count350
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluat
+ex.def"
+File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/st
+ringenc.sty"
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend
+-ltx.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count351
+\c@bookmark@seq@number=\count352
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck
+/rerunfilecheck.sty"
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounte
+r/uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip193
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/memoir/memhfix
+c.sty"
+Package: memhfixc 2023/09/10 v1.22 hyperref package fixes for memoir class
+\c@memhycontfloat=\count353
+\c@Hpagenote=\count354
+)
+Package hyperref Info: Option `verbose' set `true' on input line 12.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 12.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 12.
+Package hyperref Info: Option `colorlinks' set `false' on input line 12.
+Package hyperref Info: Option `unicode' set `true' on input line 12.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/bookmark/bookm
+ark.sty"
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/bookmark/bkm-p
+dftex.def"
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
+)
+\BKM@id=\count355
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics/color
+.sty"
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/c
+olor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/l
+uatex.def"
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics/dvips
+nam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathc
+olor.ltx"))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/listings/listi
+ngs.sty"
+\lst@mode=\count356
+\lst@gtempboxa=\box59
+\lst@token=\toks34
+\lst@length=\count357
+\lst@currlwidth=\dimen264
+\lst@column=\count358
+\lst@pos=\count359
+\lst@lostspace=\dimen265
+\lst@width=\dimen266
+\lst@newlines=\count360
+\lst@lineno=\count361
+\lst@maxwidth=\dimen267
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstpa
+tch.sty"
+File: lstpatch.sty 2024/03/11 1.10a (Carsten Heinz)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmi
+sc.sty"
+File: lstmisc.sty 2024/03/11 1.10a (Carsten Heinz)
+\c@lstnumber=\count362
+\lst@skipnumbers=\count363
+\lst@framebox=\box60
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/listings/listi
+ngs.cfg"
+File: listings.cfg 2024/03/11 1.10a listings configuration
+))
+Package: listings 2024/03/11 1.10a (Carsten Heinz)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/cite/cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graph
+icx.sty"
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graph
+ics.sty"
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.
+sty"
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/g
+raphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+)
+\Gin@req@height=\dimen268
+\Gin@req@width=\dimen269
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/caption/captio
+n.sty"
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/caption/captio
+n3.sty"
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen270
+\captionmargin=\dimen271
+\caption@leftmargin=\dimen272
+\caption@rightmargin=\dimen273
+\caption@width=\dimen274
+\caption@indent=\dimen275
+\caption@parindent=\dimen276
+\caption@hangindent=\dimen277
+Package caption Info: memoir document class detected.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/caption/captio
+n-memoir.sto"
+File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to th
+e memoir document class (AR)
+))
+\c@caption@flags=\count364
+\c@continuedfloat=\count365
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen278
+\caption@adjustwidth@linewidth=\dimen279
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/diagbox/diagbo
+x.sty"
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/pict2e/pict2e.
+sty"
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/pict2e/pict2e.
+cfg"
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: luatex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-luatex.def on input line 114.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/pict2e/p2e-lua
+tex.def"
+File: p2e-luatex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks35
+\@arclen=\dimen280
+\@arcrad=\dimen281
+\pIIe@tempdima=\dimen282
+\pIIe@tempdimb=\dimen283
+\pIIe@tempdimc=\dimen284
+\pIIe@tempdimd=\dimen285
+\pIIe@tempdime=\dimen286
+\pIIe@tempdimf=\dimen287
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty
+"
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count366
+\calc@Bcount=\count367
+\calc@Adimen=\dimen288
+\calc@Bdimen=\dimen289
+\calc@Askip=\skip194
+\calc@Bskip=\skip195
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count368
+\calc@Cskip=\skip196
+)
+\diagbox@boxa=\box61
+\diagbox@boxb=\box62
+\diagbox@boxm=\box63
+\diagbox@wd=\dimen290
+\diagbox@ht=\dimen291
+\diagbox@insepl=\dimen292
+\diagbox@insepr=\dimen293
+\diagbox@outsepl=\dimen294
+\diagbox@outsepr=\dimen295
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/xfrac/xfrac.st
+y"
+Package: xfrac 2024-02-13 Split-level fractions
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xte
+mplate/xtemplate.sty"
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xte
+mplate/xtemplate-2023-10-10.sty"
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen296
+\l__xtemplate_tmp_int=\count369
+\l__xtemplate_tmp_muskip=\muskip19
+\l__xtemplate_tmp_skip=\skip197
+))
+\l__xfrac_slash_box=\box64
+\l__xfrac_tmp_box=\box65
+\l__xfrac_denominator_bot_sep_dim=\dimen297
+\l__xfrac_numerator_bot_sep_dim=\dimen298
+\l__xfrac_numerator_top_sep_dim=\dimen299
+\l__xfrac_slash_left_sep_dim=\dimen300
+\l__xfrac_slash_right_sep_dim=\dimen301
+\l__xfrac_slash_left_muskip=\muskip20
+\l__xfrac_slash_right_muskip=\muskip21
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 98.
+
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/siunitx/siunit
+x.sty"
+Package: siunitx 2024-02-15 v3.3.12 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count370
+\l__siunitx_number_exponent_fixed_int=\count371
+\l__siunitx_number_min_decimal_int=\count372
+\l__siunitx_number_min_integer_int=\count373
+\l__siunitx_number_round_precision_int=\count374
+\l__siunitx_number_lower_threshold_int=\count375
+\l__siunitx_number_upper_threshold_int=\count376
+\l__siunitx_number_group_first_int=\count377
+\l__siunitx_number_group_size_int=\count378
+\l__siunitx_number_group_minimum_int=\count379
+\l__siunitx_angle_tmp_dim=\dimen302
+\l__siunitx_angle_marker_box=\box66
+\l__siunitx_angle_unit_box=\box67
+\l__siunitx_compound_count_int=\count380
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/translations/t
+ranslations.sty"
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_table_tmp_box=\box68
+\l__siunitx_table_tmp_dim=\dimen303
+\l__siunitx_table_column_width_dim=\dimen304
+\l__siunitx_table_integer_box=\box69
+\l__siunitx_table_decimal_box=\box70
+\l__siunitx_table_uncert_box=\box71
+\l__siunitx_table_before_box=\box72
+\l__siunitx_table_after_box=\box73
+\l__siunitx_table_before_dim=\dimen305
+\l__siunitx_table_carry_dim=\dimen306
+\l__siunitx_unit_tmp_int=\count381
+\l__siunitx_unit_position_int=\count382
+\l__siunitx_unit_total_int=\count383
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/units/nicefrac
+.sty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip198
+\L@UnitsRaiseTextstyle=\skip199
+\L@UnitsRaiseScriptstyle=\skip256
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.st
+y"
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+))
+luaotfload | cache : Lookup cache loaded from C:/Users/Emil Michalik/AppData/Loc
+al/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'FreeSerif(0)' created for font 'FreeSerif'
+(fontspec)             with options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif:mode=node;script=latn;language=dflt;+
+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif:mode=node;script=latn;language=dflt;+
+tlig;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/B:mode=node;script=latn;language=dflt
+;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/B:mode=node;script=latn;language=dflt
+;+tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/I:mode=node;script=latn;language=dflt
+;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/BI:mode=node;script=latn;language=dfl
+t;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+luaotfload | aux : font no 37 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 38 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'FreeSerif(1)' created for font 'FreeSerif'
+(fontspec)             with options [Ligatures=TeX,Renderer=Basic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif:mode=base;script=latn;language=dflt;+
+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif:mode=base;script=latn;language=dflt;+
+tlig;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/B:mode=base;script=latn;language=dflt
+;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/B:mode=base;script=latn;language=dflt
+;+tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/I:mode=base;script=latn;language=dflt
+;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"name:FreeSerif/BI:mode=base;script=latn;language=dfl
+t;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/FreeSerif(1)/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/FreeSerif(1)/m/it on input line 39.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/FreeSerif(1)/b/n on input line 39.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries/bas
+e/glossaries.sty"
+Package: glossaries 2023/09/29 v4.53 (NLCT)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/mfirstuc/mfirs
+tuc.sty"
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks36
+\@glsmrest=\toks37
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/xfor/xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/datatool/datat
+ool-base.sty"
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/substr/substr.
+sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count384
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/datatool/datat
+ool-fp.sty"
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/defpattern.
+sty"
+Package: defpattern 1994/10/12
+\actioncount=\count385
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-basic.st
+y"
+Package: fp-basic 1996/05/13
+\FP@xs=\count386
+\FP@xia=\count387
+\FP@xib=\count388
+\FP@xfa=\count389
+\FP@xfb=\count390
+\FP@rega=\count391
+\FP@regb=\count392
+\FP@regs=\count393
+\FP@times=\count394
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-addons.s
+ty"
+Package: fp-addons 1995/03/15
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-snap.sty
+"
+Package: fp-snap 1995/04/05
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-trigo.st
+y"
+Package: fp-trigo 1995/04/14
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-random.s
+ty"
+Package: fp-random 1995/02/23
+\FPseed=\count395
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+) ("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-upn.st
+y"
+Package: fp-upn 1996/10/21
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/fp/fp-eval.sty
+"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks38
+\@dtl@tmpcount=\count396
+\dtl@tmplength=\skip257
+\dtl@sortresult=\count397
+\@dtl@numgrpsepcount=\count398
+\@dtl@datatype=\count399
+\dtl@codeA=\count400
+\dtl@codeB=\count401
+\@dtl@foreach@level=\count402
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tracklang/trac
+klang.sty"
+Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/generic/tracklang/tr
+acklang.tex"))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries-pol
+ish/glossaries-polish.ldf"
+File: glossaries-polish.ldf 2014/11/23 v1.0
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries-pol
+ish/glossaries-polish-noenc.ldf"))
+\gls@level=\count403
+\@gls@tmpb=\toks39
+\gls@tmplen=\skip258
+
+
+Package glossaries Warning: Overriding \printglossary on input line 6158.
+
+
+Package glossaries Warning: Overriding `theglossary' environment on input line 
+6752.
+
+\glskeylisttok=\toks40
+\glslabeltok=\toks41
+\glsshorttok=\toks42
+\glslongtok=\toks43
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries/sty
+les/glossary-hypernav.sty"
+Package: glossary-hypernav 2023/09/29 v4.53 (NLCT)
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries/sty
+les/glossary-list.sty"
+Package: glossary-list 2023/09/29 v4.53 (NLCT)
+\glslistdottedwidth=\skip259
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries/sty
+les/glossary-long.sty"
+Package: glossary-long 2023/09/29 v4.53 (NLCT)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtabl
+e.sty"
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip260
+\LTright=\skip261
+\LTpre=\skip262
+\LTpost=\skip263
+\LTchunksize=\count404
+\LTcapwidth=\dimen307
+\LT@head=\box74
+\LT@firsthead=\box75
+\LT@foot=\box76
+\LT@lastfoot=\box77
+\LT@gbox=\box78
+\LT@cols=\count405
+\LT@rows=\count406
+\c@LT@tables=\count407
+\c@LT@chunks=\count408
+\LT@p@ftn=\toks44
+)
+\glsdescwidth=\skip264
+\glspagelistwidth=\skip265
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries/sty
+les/glossary-super.sty"
+Package: glossary-super 2023/09/29 v4.53 (NLCT)
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/supertabular/s
+upertabular.sty"
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count409
+\ST@wd=\dimen308
+\ST@rightskip=\skip266
+\ST@leftskip=\skip267
+\ST@parfillskip=\skip268
+\ST@pageleft=\dimen309
+\ST@headht=\dimen310
+\ST@tailht=\dimen311
+\ST@pagesofar=\dimen312
+\ST@pboxht=\dimen313
+\ST@lineht=\dimen314
+\ST@prevht=\dimen315
+\ST@toadd=\dimen316
+\ST@dimen=\dimen317
+\ST@pbox=\box79
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries/sty
+les/glossary-tree.sty"
+Package: glossary-tree 2023/09/29 v4.53 (NLCT)
+\glstreeindent=\skip269
+))
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries-ext
+ra/glossaries-extra.sty"
+Package: glossaries-extra 2023/09/29 v1.53 (NLCT)
+\@glsxtr@leveloffset=\count410
+\glsxtrresourcecount=\count411
+\@glsxtrnewgls@inner=\count412
+\glsshortpltok=\toks45
+\glslongpltok=\toks46
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/glossaries-ext
+ra/glossaries-extra-abbrstyles.def"
+File: glossaries-extra-abbrstyles.def 2023/06/28 v1.52 (NLCT)
+)
+\mglselementindex=\count413
+) (./glossary.tex) (./praca_dyplomowa2.aux)
+\openout1 = praca_dyplomowa2.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 204.
+LaTeX Font Info:    ... okay on input line 204.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 204.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 204.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 204.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 204.
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Ligatures=TeX,Renderer=Basic,BoldItalicFont={},ItalicFo
+nt={},SmallCapsFont={},Script=Math,RawFeature={mathfontdimen=xetex},BoldFont={l
+atinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;languag
+e=dflt;+tlig;mathfontdimen=xetex;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;languag
+e=dflt;+tlig;mathfontdimen=xetex;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Ligatures=TeX,Renderer=Basic,BoldItalicFont={},ItalicFo
+nt={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.30
+75,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-mat
+h.otf,Style=MathScriptScript}},RawFeature={mathfontdimen=xetex},BoldFont={latin
+modern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.3075->"[latinmodern-math.otf]:mode=base;script=math;l
+anguage=dflt;+tlig;mathfontdimen=xetex;"<6.57-9.3075>"[latinmodern-math.otf]:mo
+de=base;script=math;language=dflt;+tlig;mathfontdimen=xetex;+ssty=0;"<-6.57>"[l
+atinmodern-math.otf]:mode=base;script=math;language=dflt;+tlig;mathfontdimen=xe
+tex;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;languag
+e=dflt;+tlig;mathfontdimen=xetex;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 204.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 204.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 204.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 204.
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Ligatures=TeX,Renderer=Basic,BoldItalicFont={},ItalicFo
+nt={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.30
+75,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-mat
+h.otf,Style=MathScriptScript}},RawFeature={mathfontdimen=xetex},BoldFont={latin
+modern-math.otf},RawFeature={mathfontdimen=tex2}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.3075->"[latinmodern-math.otf]:mode=base;script=math;l
+anguage=dflt;+tlig;mathfontdimen=xetex;mathfontdimen=tex2;"<6.57-9.3075>"[latin
+modern-math.otf]:mode=base;script=math;language=dflt;+tlig;mathfontdimen=xetex;
+mathfontdimen=tex2;+ssty=0;"<-6.57>"[latinmodern-math.otf]:mode=base;script=mat
+h;language=dflt;+tlig;mathfontdimen=xetex;mathfontdimen=tex2;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;languag
+e=dflt;+tlig;mathfontdimen=xetex;mathfontdimen=tex2;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 204.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 204.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 204.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 204.
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Ligatures=TeX,Renderer=Basic,BoldItalicFont={},ItalicFo
+nt={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.30
+75,Font=latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-mat
+h.otf,Style=MathScriptScript}},RawFeature={mathfontdimen=xetex},BoldFont={latin
+modern-math.otf},RawFeature={mathfontdimen=tex3}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <9.3075->"[latinmodern-math.otf]:mode=base;script=math;l
+anguage=dflt;+tlig;mathfontdimen=xetex;mathfontdimen=tex3;"<6.57-9.3075>"[latin
+modern-math.otf]:mode=base;script=math;language=dflt;+tlig;mathfontdimen=xetex;
+mathfontdimen=tex3;+ssty=0;"<-6.57>"[latinmodern-math.otf]:mode=base;script=mat
+h;language=dflt;+tlig;mathfontdimen=xetex;mathfontdimen=tex3;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[latinmodern-math.otf]:mode=base;script=math;languag
+e=dflt;+tlig;mathfontdimen=xetex;mathfontdimen=tex3;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 2
+04.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 204.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 204
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 204.
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-34.61191pt
+* \headheight=13.6pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=101.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 204.
+Package hyperref Info: Anchor `Doc-Start' on input line 204.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/su
+pp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count414
+\scratchdimen=\dimen318
+\scratchbox=\box80
+\nofMPsegments=\count415
+\nofMParguments=\count416
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count417
+\MPscratchDim=\dimen319
+\MPnumerator=\count418
+\makeMPintoPDFobject=\count419
+\everyMPtoPDFconversion=\toks48
+)
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/e
+pstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epsto
+pdf-sys.cfg"
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count420
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/caption/ltcapt
+ion.sty"
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \rmfamily on input line 204.
+LaTeX Info: Redefining \sffamily on input line 204.
+LaTeX Info: Redefining \ttfamily on input line 204.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+set lang polish, 2
+(./title.tex
+
+Package fontspec Info: Could not resolve font "LatinModernMono/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "LatinModernMono/B" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 56 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'LatinModernMono(0)' created for font
+(fontspec)             'Latin Modern Mono' with options
+(fontspec)             [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:LatinModernMono:mode=node;script=latn;language=
+dflt;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:LatinModernMono/I:mode=node;script=latn;languag
+e=dflt;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+luaotfload | aux : font no 60 (nil) defines no feature for script latn with lang
+uage plk
+
+Package fontspec Info: Could not resolve font "LatinModernMono/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "LatinModernMono/B" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 56 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'LatinModernMono(1)' created for font
+(fontspec)             'Latin Modern Mono' with options
+(fontspec)             [Ligatures=TeX,Ligatures=TeX,LetterSpace=35].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:LatinModernMono:mode=node;script=latn;language=
+dflt;letterspace=35;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:LatinModernMono/I:mode=node;script=latn;languag
+e=dflt;letterspace=35;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+Inserting `luaotfload.letterspace' in `pre_linebreak_filter'.
+Inserting `luaotfload.letterspace' in `hpack_filter'.
+luaotfload | aux : font no 62 (nil) defines no feature for script latn with lang
+uage plk
+<../grafika/pwlogo.png, id=3, 216.05719pt x 216.05719pt>
+File: ../grafika/pwlogo.png Graphic file (type png)
+<use ../grafika/pwlogo.png>
+Package luatex.def Info: ../grafika/pwlogo.png  used on input line 18.
+(luatex.def)             Requested size: 71.13095pt x 71.13188pt.
+
+Package fontspec Info: Font family 'NotoSans(0)' created for font 'Noto Sans'
+(fontspec)             with options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:NotoSans:mode=node;script=latn;language=dflt;+t
+lig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"name:NotoSans:mode=node;script=latn;language=dflt;+t
+lig;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"name:NotoSans/B:mode=node;script=latn;language=dflt;
++tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:NotoSans/B:mode=node;script=latn;language=dflt;
++tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:NotoSans/I:mode=node;script=latn;language=dflt;
++tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"name:NotoSans/I:mode=node;script=latn;language=dflt;
++tlig;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"name:NotoSans/BI:mode=node;script=latn;language=dflt
+;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"name:NotoSans/BI:mode=node;script=latn;language=dflt
+;+tlig;+smcp;"
+
+luaotfload | aux : font no 73 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 60 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 73 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 73 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 73 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 73 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 73 (nil) defines no feature for script latn with lang
+uage plk
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
+
+ []
+
+) (./acknowledgment.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.1' on input line 3.
+ [1
+
+{C:/Users/Emil Michalik/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<../gra
+fika/pwlogo.png>]) (./abstract.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.2' on input line 4.
+ [2]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.3' on input line 34.
+ [3
+
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.4' on input line 34.
+ [4
+
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.5' on input line 66.
+
+[5])
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.6' on input line 231.
+ [6
+
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.i' on input line 246.
+ [1]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.ii' on input line 246.
+ [2
+
+]
+Package hyperref Info: Anchor `section*.1' on input line 250.
+Package hyperref Info: bookmark on input line 250:
+(hyperref)             thecounter {0}
+(hyperref)             text {\contentsname }
+(hyperref)             reference {section*.1}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk (./praca_dyplomowa2.toc
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+set lang polish, 2
+Package hyperref Info: Reference (link) `section*.1' on input line 2.
+Package hyperref Info: Reference (link) `chapter.1' on input line 3.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.1.1' on input line 4.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.1.2' on input line 5.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.1.3' on input line 6.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter.2' on input line 7.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.2.1' on input line 8.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.2.2' on input line 9.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter.3' on input line 10.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.3.1' on input line 11.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.3.2' on input line 12.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.3.3' on input line 13.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.3.4' on input line 14.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.3.5' on input line 15.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.3.6' on input line 19.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter.4' on input line 20.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.4.1' on input line 21.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.4.2' on input line 22.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.4.3' on input line 23.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.4.4' on input line 24.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter.5' on input line 25.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.5.1' on input line 26.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.5.2' on input line 27.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.5.3' on input line 28.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter.6' on input line 29.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.6.1' on input line 30.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.6.2' on input line 31.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter*.2' on input line 32.
+Package hyperref Info: Reference (link) `section*.3' on input line 33.
+Package hyperref Info: Reference (link) `section*.4' on input line 34.
+Package hyperref Info: Reference (link) `section*.5' on input line 35.
+) (./chapter1.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.1' on input line 3.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
+[1
+Package `hyperref' Info: End of reference (link) `section*.1', line 2.
+Package `hyperref' Info: End of reference (link) `chapter.1', line 3.
+Package `hyperref' Info: End of reference (link) `section.1.1', line 4.
+Package `hyperref' Info: End of reference (link) `section.1.2', line 5.
+Package `hyperref' Info: End of reference (link) `section.1.3', line 6.
+Package `hyperref' Info: End of reference (link) `chapter.2', line 7.
+Package `hyperref' Info: End of reference (link) `section.2.1', line 8.
+Package `hyperref' Info: End of reference (link) `section.2.2', line 9.
+Package `hyperref' Info: End of reference (link) `chapter.3', line 10.
+Package `hyperref' Info: End of reference (link) `section.3.1', line 11.
+Package `hyperref' Info: End of reference (link) `section.3.2', line 12.
+Package `hyperref' Info: End of reference (link) `section.3.3', line 13.
+Package `hyperref' Info: End of reference (link) `section.3.4', line 14.
+Package `hyperref' Info: End of reference (link) `section.3.5', line 15.
+Package `hyperref' Info: End of reference (link) `section.3.6', line 19.
+Package `hyperref' Info: End of reference (link) `chapter.4', line 20.
+Package `hyperref' Info: End of reference (link) `section.4.1', line 21.
+Package `hyperref' Info: End of reference (link) `section.4.2', line 22.
+Package `hyperref' Info: End of reference (link) `section.4.3', line 23.
+Package `hyperref' Info: End of reference (link) `section.4.4', line 24.
+Package `hyperref' Info: End of reference (link) `chapter.5', line 25.
+Package `hyperref' Info: End of reference (link) `section.5.1', line 26.
+Package `hyperref' Info: End of reference (link) `section.5.2', line 27.
+Package `hyperref' Info: End of reference (link) `section.5.3', line 28.
+Package `hyperref' Info: End of reference (link) `chapter.6', line 29.
+Package `hyperref' Info: End of reference (link) `section.6.1', line 30.
+Package `hyperref' Info: End of reference (link) `section.6.2', line 31.
+Package `hyperref' Info: End of reference (link) `chapter*.2', line 32.
+Package `hyperref' Info: End of reference (link) `section*.3', line 33.
+Package `hyperref' Info: End of reference (link) `section*.4', line 34.
+Package `hyperref' Info: End of reference (link) `section*.5', line 35.
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.2' on input line 3.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
+[2
+
+]
+Package hyperref Info: Anchor `chapter.1' on input line 3.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 3:
+(hyperref)             thecounter {1}
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {chapter.1}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.1.1' on input line 4.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 4:
+(hyperref)             thecounter {1.1}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Tło}
+(hyperref)             reference {section.1.1}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Reference (cite) `cite.doi:10.1126/sciadv.aaw3916' on in
+put line 6.
+Package hyperref Info: Reference (cite) `cite.wiki:telegraf' on input line 6.
+Package hyperref Info: Reference (cite) `cite.wiki:internet' on input line 6.
+Package hyperref Info: Anchor `section.1.2' on input line 7.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 7:
+(hyperref)             thecounter {1.2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Cel}
+(hyperref)             reference {section.1.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Reference (cite) `cite.enwiki:lora' on input line 9.
+Package hyperref Info: Anchor `section.1.3' on input line 11.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 11:
+(hyperref)             thecounter {1.3}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Szablon}
+(hyperref)             reference {section.1.3}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `Item.1' on input line 14.
+Package hyperref Info: Anchor `Item.2' on input line 15.
+Package hyperref Info: Anchor `Item.3' on input line 16.
+Package hyperref Info: Anchor `Item.4' on input line 17.
+Package hyperref Info: Anchor `Item.5' on input line 18.
+Package hyperref Info: Anchor `Item.6' on input line 19.
+Package hyperref Info: Anchor `Item.7' on input line 20.
+) (./chapter2.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.3' on input line 3.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.3'
+[3
+Package `hyperref' Info: End of reference (cite) `cite.doi:10.1126/sciadv.aaw39
+16', line 6.
+Package `hyperref' Info: End of reference (cite) `cite.wiki:telegraf', line 6.
+Package `hyperref' Info: End of reference (cite) `cite.wiki:internet', line 6.
+Package `hyperref' Info: End of reference (cite) `cite.enwiki:lora', line 9.
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.4' on input line 3.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.4'
+[4
+
+]
+Package hyperref Info: Anchor `chapter.2' on input line 3.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 3:
+(hyperref)             thecounter {2}
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {chapter.2}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.2.1' on input line 5.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 5:
+(hyperref)             thecounter {2.1}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Mikrokontroler}
+(hyperref)             reference {section.2.1}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+<../grafika/rp2040.png, id=136, 1505.625pt x 501.875pt>
+File: ../grafika/rp2040.png Graphic file (type png)
+<use ../grafika/rp2040.png>
+Package luatex.def Info: ../grafika/rp2040.png  used on input line 6.
+(luatex.def)             Requested size: 1505.62134pt x 501.87376pt.
+Package hyperref Info: Reference (cite) `cite.pico2024' on input line 7.
+
+Overfull \hbox (1050.37723pt too wide) in paragraph at lines 6--12
+[]
+ []
+
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.5' on input line 12.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.5'
+[5
+Package `hyperref' Info: End of reference (cite) `cite.pico2024', line 7.
+<../grafika/rp2040.png>]
+Package hyperref Info: Anchor `section.2.2' on input line 12.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 12:
+(hyperref)             thecounter {2.2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Schemat systemu}
+(hyperref)             reference {section.2.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+) (./chapter3.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.6' on input line 3.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.6'
+[6]
+Package hyperref Info: Anchor `chapter.3' on input line 3.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 3:
+(hyperref)             thecounter {3}
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {chapter.3}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.1' on input line 5.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 5:
+(hyperref)             thecounter {3.1}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Przegląd różnych mikrokontrolerów i por
+ównanie, a także przedstawienie wybranego rozwiązania}
+(hyperref)             reference {section.3.1}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.2' on input line 7.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 7:
+(hyperref)             thecounter {3.2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Schemat}
+(hyperref)             reference {section.3.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.3' on input line 9.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 9:
+(hyperref)             thecounter {3.3}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Przegląd gotowych rozwiązań z zakresu 
+ładowania i magazynowania energii w tego typu urządzeniach}
+(hyperref)             reference {section.3.3}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.4' on input line 11.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 11:
+(hyperref)             thecounter {3.4}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Konkretne rozwiązanie "problemu zasilania"
+ zastosowane w moim projekcie}
+(hyperref)             reference {section.3.4}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.5' on input line 13.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 13:
+(hyperref)             thecounter {3.5}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Obudowa}
+(hyperref)             reference {section.3.5}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.3.5.1' on input line 15.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 15:
+(hyperref)             thecounter {3.5.1}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi Przegląd różnych technik wykonania ob
+udów do podobnych urządzeń}
+(hyperref)             reference {subsection.3.5.1}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.3.5.2' on input line 17.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 17:
+(hyperref)             thecounter {3.5.2}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi Przedstawienie wybranego rozwiązania - 
+druk 3D}
+(hyperref)             reference {subsection.3.5.2}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.3.5.3' on input line 19.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 19:
+(hyperref)             thecounter {3.5.3}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi Schemat obudowy wykonany w oprogramowani
+u typu CAD}
+(hyperref)             reference {subsection.3.5.3}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.6' on input line 21.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 21:
+(hyperref)             thecounter {3.6}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Przedstawienie protokołu Lora}
+(hyperref)             reference {section.3.6}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Reference (cite) `cite.Augustin2016' on input line 22.
+) (./chapter4.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.7' on input line 3.
+ [7
+
+Package `hyperref' Info: End of reference (cite) `cite.Augustin2016', line 22.
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.8' on input line 3.
+ [8
+
+]
+Package hyperref Info: Anchor `chapter.4' on input line 3.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 3:
+(hyperref)             thecounter {4}
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {chapter.4}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.4.1' on input line 5.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 5:
+(hyperref)             thecounter {4.1}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Wstęp}
+(hyperref)             reference {section.4.1}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.4.2' on input line 7.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 7:
+(hyperref)             thecounter {4.2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Algorytm}
+(hyperref)             reference {section.4.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.4.3' on input line 9.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 9:
+(hyperref)             thecounter {4.3}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Kod aplikacji}
+(hyperref)             reference {section.4.3}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.4.4' on input line 11.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 11:
+(hyperref)             thecounter {4.4}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Krytyczna analiza aplikacji}
+(hyperref)             reference {section.4.4}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+) (./chapter5.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.9' on input line 3.
+ [9]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.10' on input line 3.
+ [10
+
+]
+Package hyperref Info: Anchor `chapter.5' on input line 3.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 3:
+(hyperref)             thecounter {5}
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {chapter.5}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.5.1' on input line 5.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 5:
+(hyperref)             thecounter {5.1}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Wprowadzenie - użyte narzędzia}
+(hyperref)             reference {section.5.1}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.5.2' on input line 7.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 7:
+(hyperref)             thecounter {5.2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Aplikacja - kod, opis, działanie}
+(hyperref)             reference {section.5.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.5.3' on input line 9.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 9:
+(hyperref)             thecounter {5.3}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Krytyczna analiza aplikacji mobilnej }
+(hyperref)             reference {section.5.3}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+) (./chapter6.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.11' on input line 3.
+
+[11]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.12' on input line 3.
+ [12
+
+]
+Package hyperref Info: Anchor `chapter.6' on input line 3.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 3:
+(hyperref)             thecounter {6}
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {chapter.6}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.6.1' on input line 5.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 5:
+(hyperref)             thecounter {6.1}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Przegląd sposobów badania efektywności}
+(hyperref)             reference {section.6.1}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.6.2' on input line 7.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 7:
+(hyperref)             thecounter {6.2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Faktyczne badanie}
+(hyperref)             reference {section.6.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+) (./praca_dyplomowa2.bbl
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.13' on input line 1.
+ [13]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.14' on input line 1.
+ [14
+
+]
+Package hyperref Info: Anchor `chapter*.2' on input line 1.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 1:
+(hyperref)             thecounter {6}
+(hyperref)             text {\bibname }
+(hyperref)             reference {chapter*.2}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+
+bibitemlist
+Package hyperref Info: Anchor `cite.pico2024' on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+[]\TU/FreeSerif(0)/m/n/10.95 Ra-sp-ber-ry pi pi-co(rp2040).  URL: []$\TU/lmtt/m
+/n/10.95 https://www.raspberrypi.com/products/
+ []
+
+Package hyperref Info: Anchor `cite.wiki:telegraf' on input line 7.
+Package hyperref Info: Anchor `cite.wiki:internet' on input line 12.
+Package hyperref Info: Anchor `cite.Augustin2016' on input line 17.
+Package hyperref Info: Anchor `cite.doi:10.1126/sciadv.aaw3916' on input line 2
+5.
+Package hyperref Info: Anchor `cite.enwiki:lora' on input line 39.
+)
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.15' on input line 274.
+ [15
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.16' on input line 274.
+ [16
+
+]
+
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]
+. Rerun may be required (or you may have forgotten to use commands like \gls) o
+n input line 275.
+
+Package hyperref Info: Anchor `section*.3' on input line 283.
+Package hyperref Info: bookmark on input line 283:
+(hyperref)             thecounter {6}
+(hyperref)             text {\listfigurename }
+(hyperref)             reference {section*.3}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk (./praca_dyplomowa2.lof)
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.17' on input line 286.
+ [17
+
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.18' on input line 286.
+ [18
+
+]
+Package hyperref Info: Anchor `section*.4' on input line 290.
+Package hyperref Info: bookmark on input line 290:
+(hyperref)             thecounter {6}
+(hyperref)             text {\listtablename }
+(hyperref)             reference {section*.4}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk (./praca_dyplomowa2.lot)
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.19' on input line 290.
+ [19]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.20' on input line 290.
+ [20
+
+]
+Package hyperref Info: Anchor `section*.5' on input line 295.
+Package hyperref Info: bookmark on input line 295:
+(hyperref)             thecounter {}
+(hyperref)             text {\appendixtocname }
+(hyperref)             reference {section*.5}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.21' on input line 295.
+ [21
+
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.22' on input line 295.
+
+[22]
+Package hyperref Info: Anchor `section*.6' on input line 295.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk (./praca_dyplomowa2.toc
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+set lang polish, 2
+Package hyperref Info: Reference (link) `appendix.A' on input line 37.
+Package hyperref Info: Reference (link) `appendix.B' on input line 38.
+) (./appendixA.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.23' on input line 1.
+ [23
+Package `hyperref' Info: End of reference (link) `appendix.A', line 37.
+Package `hyperref' Info: End of reference (link) `appendix.B', line 38.
+]
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.24' on input line 1.
+ [24
+
+]
+Package hyperref Info: Anchor `appendix.A' on input line 1.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 1:
+(hyperref)             thecounter {\theappendix }
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {appendix.A}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+
+("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstla
+ng1.sty"
+File: lstlang1.sty 2024/03/11 1.10a listings language file
+)
+Package hyperref Info: Anchor `lstlisting.A.-1' on input line 4.
+Package hyperref Info: Anchor `lstnumber.-1.1' on input line 5.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.2' on input line 6.
+Package hyperref Info: Anchor `lstnumber.-1.3' on input line 7.
+Package hyperref Info: Anchor `lstnumber.-1.4' on input line 8.
+Package hyperref Info: Anchor `lstnumber.-1.5' on input line 10.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.6' on input line 10.
+Package hyperref Info: Anchor `lstnumber.-1.7' on input line 11.
+Package hyperref Info: Anchor `lstnumber.-1.8' on input line 12.
+Package hyperref Info: Anchor `lstnumber.-1.9' on input line 13.
+Package hyperref Info: Anchor `lstnumber.-1.10' on input line 14.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.11' on input line 15.
+Package hyperref Info: Anchor `lstnumber.-1.12' on input line 17.
+Package hyperref Info: Anchor `lstnumber.-1.13' on input line 17.
+Package hyperref Info: Anchor `lstnumber.-1.14' on input line 18.
+Package hyperref Info: Anchor `lstnumber.-1.15' on input line 19.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.16' on input line 20.
+Package hyperref Info: Anchor `lstnumber.-1.17' on input line 21.
+Package hyperref Info: Anchor `lstnumber.-1.18' on input line 23.
+Package hyperref Info: Anchor `lstnumber.-1.19' on input line 23.
+Package hyperref Info: Anchor `lstnumber.-1.20' on input line 24.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.21' on input line 25.
+Package hyperref Info: Anchor `lstnumber.-1.22' on input line 26.
+Package hyperref Info: Anchor `lstnumber.-1.23' on input line 27.
+Package hyperref Info: Anchor `lstnumber.-1.24' on input line 28.
+Package hyperref Info: Anchor `lstnumber.-1.25' on input line 29.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.26' on input line 30.
+Package hyperref Info: Anchor `lstnumber.-1.27' on input line 31.
+Package hyperref Info: Anchor `lstnumber.-1.28' on input line 32.
+Package hyperref Info: Anchor `lstnumber.-1.29' on input line 35.
+Package hyperref Info: Anchor `lstnumber.-1.30' on input line 35.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.31' on input line 35.
+Package hyperref Info: Anchor `lstnumber.-1.32' on input line 36.
+Package hyperref Info: Anchor `lstnumber.-1.33' on input line 37.
+Package hyperref Info: Anchor `lstnumber.-1.34' on input line 38.
+Package hyperref Info: Anchor `lstnumber.-1.35' on input line 39.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.36' on input line 40.
+Package hyperref Info: Anchor `lstnumber.-1.37' on input line 41.
+Package hyperref Info: Anchor `lstnumber.-1.38' on input line 42.
+Package hyperref Info: Anchor `lstnumber.-1.39' on input line 43.
+Package hyperref Info: Anchor `lstnumber.-1.40' on input line 44.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.41' on input line 46.
+Package hyperref Info: Anchor `lstnumber.-1.42' on input line 46.
+Package hyperref Info: Anchor `lstnumber.-1.43' on input line 47.
+Package hyperref Info: Anchor `lstnumber.-1.44' on input line 48.
+Package hyperref Info: Anchor `lstnumber.-1.45' on input line 49.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.46' on input line 50.
+Package hyperref Info: Anchor `lstnumber.-1.47' on input line 51.
+Package hyperref Info: Anchor `lstnumber.-1.48' on input line 53.
+Package hyperref Info: Anchor `lstnumber.-1.49' on input line 53.
+Package hyperref Info: Anchor `lstnumber.-1.50' on input line 54.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.51' on input line 55.
+Package hyperref Info: Anchor `lstnumber.-1.52' on input line 56.
+Package hyperref Info: Anchor `lstnumber.-1.53' on input line 57.
+Package hyperref Info: Anchor `lstnumber.-1.54' on input line 58.
+Package hyperref Info: Anchor `lstnumber.-1.55' on input line 59.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.56' on input line 60.
+Package hyperref Info: Anchor `lstnumber.-1.57' on input line 63.
+Package hyperref Info: Anchor `lstnumber.-1.58' on input line 63.
+Package hyperref Info: Anchor `lstnumber.-1.59' on input line 63.
+Package hyperref Info: Anchor `lstnumber.-1.60' on input line 64.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.25' on input line 65.
+ [25]
+Package hyperref Info: Anchor `lstnumber.-1.61' on input line 65.
+Package hyperref Info: Anchor `lstnumber.-1.62' on input line 66.
+Package hyperref Info: Anchor `lstnumber.-1.63' on input line 67.
+Package hyperref Info: Anchor `lstnumber.-1.64' on input line 68.
+Package hyperref Info: Anchor `lstnumber.-1.65' on input line 69.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-1.66' on input line 70.
+Package hyperref Info: Anchor `lstnumber.-1.67' on input line 71.
+Package hyperref Info: Anchor `lstnumber.-1.68' on input line 72.
+) (./appendixB.tex
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.26' on input line 1.
+ [26]
+Package hyperref Info: Anchor `appendix.B' on input line 1.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 83 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 1:
+(hyperref)             thecounter {\theappendix }
+(hyperref)             text {\protect \chapternumberline {\thechapter }\f@rtoc 
+}
+(hyperref)             reference {appendix.B}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `lstlisting.B.-2' on input line 3.
+Package hyperref Info: Anchor `lstnumber.-2.1' on input line 4.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-2.2' on input line 5.
+Package hyperref Info: Anchor `lstnumber.-2.3' on input line 6.
+Package hyperref Info: Anchor `lstnumber.-2.4' on input line 7.
+Package hyperref Info: Anchor `lstnumber.-2.5' on input line 9.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-2.6' on input line 9.
+Package hyperref Info: Anchor `lstnumber.-2.7' on input line 10.
+Package hyperref Info: Anchor `lstnumber.-2.8' on input line 11.
+Package hyperref Info: Anchor `lstnumber.-2.9' on input line 12.
+Package hyperref Info: Anchor `lstnumber.-2.10' on input line 13.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-2.11' on input line 14.
+Package hyperref Info: Anchor `lstnumber.-2.12' on input line 15.
+Package hyperref Info: Anchor `lstnumber.-2.13' on input line 17.
+Package hyperref Info: Anchor `lstnumber.-2.14' on input line 17.
+Package hyperref Info: Anchor `lstnumber.-2.15' on input line 18.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-2.16' on input line 20.
+Package hyperref Info: Anchor `lstnumber.-2.17' on input line 20.
+Package hyperref Info: Anchor `lstnumber.-2.18' on input line 21.
+Package hyperref Info: Anchor `lstnumber.-2.19' on input line 22.
+Package hyperref Info: Anchor `lstnumber.-2.20' on input line 23.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-2.21' on input line 24.
+Package hyperref Info: Anchor `lstnumber.-2.22' on input line 25.
+Package hyperref Info: Anchor `lstnumber.-2.23' on input line 26.
+Package hyperref Info: Anchor `lstnumber.-2.24' on input line 27.
+Package hyperref Info: Anchor `lstnumber.-2.25' on input line 28.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-2.26' on input line 29.
+Package hyperref Info: Anchor `lstnumber.-2.27' on input line 30.
+Package hyperref Info: Anchor `lstnumber.-2.28' on input line 31.
+Package hyperref Info: Anchor `lstnumber.-2.29' on input line 33.
+Package hyperref Info: Anchor `lstnumber.-2.30' on input line 33.
+luaotfload | aux : font no 87 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `lstnumber.-2.31' on input line 34.
+)
+
+Package caption Warning: Unused \captionsetup[figure] on input line 70.
+See the caption package documentation for explanation.
+
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Anchor `page.27' on input line 302.
+[27
+
+]
+\tf@toc=\write4
+
+\openout4 = praca_dyplomowa2.toc
+\tf@lof=\write5
+
+\openout5 = praca_dyplomowa2.lof
+\tf@lot=\write6
+
+\openout6 = praca_dyplomowa2.lot
+ (./praca_dyplomowa2.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+)
+
+Here is how much of LuaTeX's memory you used:
+ 38568 strings out of 476435
+ 125027,1977958 words of node,token memory allocated
+ 1618 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 14 glue, 4 kern, 18 glyph, 44 attribute, 208 glue_s
+pec, 24 attribute_list, 2 write, 6 pdf_action nodes
+   avail lists: 2:3516,3:448,4:764,5:2009,6:134,7:5864,8:64,9:3990,10:36,11:828
+ 59791 multiletter control sequences out of 65536+600000
+ 89 fonts using 54327687 bytes
+ 91i,12n,115p,2423b,1469s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<//?/c:/users/emil michalik/appdata/local/programs/miktex/fonts/opentype/public/
+lm-math/latinmodern-math.otf><C:/Users/Emil Michalik/AppData/Local/Programs/MiKT
+eX/fonts/opentype/public/lm/lmmono10-regular.otf><C:/Users/Emil Michalik/AppData
+/Local/Programs/MiKTeX/fonts/opentype/public/simple-resume-cv/freeserifitalic.ot
+f><C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/fonts/opentype/public/si
+mple-resume-cv/freeserif.otf><C:/Users/Emil Michalik/AppData/Local/Programs/MiKT
+eX/fonts/opentype/public/simple-resume-cv/freeserifbold.otf><C:/Users/Emil Micha
+lik/AppData/Local/Programs/MiKTeX/fonts/truetype/google/noto/notosans-regular.tt
+f><C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm
+/lmmono12-regular.otf>
+Output written on praca_dyplomowa2.pdf (35 pages, 808341 bytes).
+
+PDF statistics: 421 PDF objects out of 1000 (max. 8388607)
+ 181 named destinations out of 1000 (max. 131072)
+ 25 words of extra memory for PDF output out of 10000 (max. 100000000)
+

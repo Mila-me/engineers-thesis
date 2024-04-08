@@ -8,4 +8,4 @@ ylim([90 200]);
 legend('Zasięg: 100 m', 'Zasięg: 1 km', 'Zasięg: 10 km','Location','northwest');
 xlabel('Częstotliwość (GHz)');
 ylabel('Straty na ścieżce (dB)');
-title('Straty na ścieżce w wolej przestrzeni');
+title('Straty na ścieżce w wolnej przestrzeni');

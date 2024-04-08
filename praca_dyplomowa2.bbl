@@ -36,6 +36,20 @@ Louis-Jean Boë, Thomas~R. Sawallis, Joël Fagot, Pierre Badin, Guillaume
   {http://dx.doi.org/10.1126/sciadv.aaw3916}
   {\path{doi:10.1126/sciadv.aaw3916}}.
 
+\bibitem{Wikipedia:ble:2024}
+{Wikipedia contributors}.
+\newblock Bluetooth low energy --- {Wikipedia}{,} the free encyclopedia.
+\newblock [Online; accessed 7-April-2024].
+\newblock URL:
+  \url{https://en.wikipedia.org/w/index.php?title=Bluetooth_Low_Energy&oldid=1211216789}.
+
+\bibitem{wiki:micropython:2024}
+{Wikipedia contributors}.
+\newblock Micropython --- {Wikipedia}{,} the free encyclopedia.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=MicroPython&oldid=1214292564}.
+\newblock [Online; accessed 8-April-2024].
+
 \bibitem{enwiki:lora}
 {Wikipedia contributors}.
 \newblock Lora --- {Wikipedia}{,} the free encyclopedia, 2022.

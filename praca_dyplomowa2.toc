@@ -8,16 +8,17 @@
 \contentsline {section}{\numberline {2.1}Mikrokontroler}{5}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Lora}{5}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Bluetooth LE}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Micropython}{6}{section.2.4}%
 \contentsline {chapter}{\chapternumberline {3}Projekt urządzenia i oprogramowania}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Schemat systemu}{7}{section.3.1}%
 \contentsline {chapter}{\chapternumberline {4}Badanie efektywności}{9}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Symulacja numeryczna}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Badanie terenowe}{12}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Badanie terenowe}{10}{section.4.2}%
 \contentsline {chapter}{\chapternumberline {5}Podsumowanie}{13}{chapter.5}%
-\contentsline {chapter}{Bibliografia}{15}{chapter*.2}%
-\contentsline {chapter}{Spis rysunków}{17}{section*.3}%
-\contentsline {chapter}{Spis tabel}{19}{section*.4}%
-\contentsline {chapter}{Spis załączników}{21}{section*.5}%
+\contentsline {chapter}{Bibliografia}{15}{chapter*.6}%
+\contentsline {chapter}{Spis rysunków}{17}{section*.7}%
+\contentsline {chapter}{Spis tabel}{19}{section*.8}%
+\contentsline {chapter}{Spis załączników}{21}{section*.9}%
 \cftinsert {BREAK}
 \contentsline {appendix}{\chapternumberline {A}Tekst źródłowy programu na mikrokontroler}{25}{appendix.A}%
 \contentsline {appendix}{\chapternumberline {B}Kod źródłowy aplikacji na telefon z systemem operacyjnym Android}{27}{appendix.B}%

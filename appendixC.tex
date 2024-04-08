@@ -1,0 +1,79 @@
+\chapter{Kody źródłowe symulacji numerycznych w programie Matlab}
+
+Wszystkie kody źródłowe, z drobnymi zmianami i polonizacją pochodzą stąd: https://www.mathworks.com/help/radar/ug/modeling-the-propagation-of-rf-signals.html
+
+\section{Symulacja na ścieżce w przestrzeni wolnej}
+\begin{lstlisting}[language=matlab, xleftmargin=0pt, backgroundcolor={\color{white}}, caption={}, frame=""]
+c = physconst('lightspeed');
+R0 = [100 1e3 10e3];
+freq = (1:1000).'*1e9;
+apathloss = fspl(R0,c./freq);
+loglog(freq/1e9,apathloss);
+grid on;
+ylim([90 200]);
+legend('Zasięg: 100 m', 'Zasięg: 1 km', 'Zasięg: 10 km','Location','northwest');
+xlabel('Częstotliwość (GHz)');
+ylabel('Straty na ścieżce (dB)');
+title('Straty na ścieżce w wolej przestrzeni');
+\end{lstlisting}
+
+\section{Symulacja na dystansie 5 km podczas opadu deszczu}
+\begin{lstlisting}[language=matlab, xleftmargin=0pt, backgroundcolor={\color{white}}, caption={}, frame=""]
+R0 = 5e3;                % 5 km zasięg
+rainrate = [1 4 20];     % siła opadu w mm/h
+el = 0;                  % 0 stopni wznoszenia
+tau = 0;                 % polaryzacja horyzontalna
+
+for m = 1:numel(rainrate)
+rainloss_itu(:,m) = rainpl(R0,freq,rainrate(m),el,tau)';
+rainloss_crane(:,m) = cranerainpl(R0,freq,rainrate(m),el,tau)';
+end
+loglog(freq/1e9,rainloss_itu);
+hold on;
+set(gca,'ColorOrderIndex',1); % reset color index for better comparison
+loglog(freq/1e9,rainloss_crane,'--');
+hold off;
+grid on;
+legend('Słaby deszcz (ITU)','Średni deszcz (ITU)','Mocny deszcz (ITU)',...
+'Słaby deszcz (Crane)','Średni deszcz (Crane)','Mocny deszcz (Crane)', ...
+'Location','SouthEast');
+xlabel('Częstotliwość (GHz)');
+ylabel('Tłumienie na dystansie 5 km (dB)')
+title('Tłumienie deszczu dla zadanej polaryzacji');
+\end{lstlisting}
+
+\section{Symulacja na dystansie 1 km podczas opadu śniegu}
+\begin{lstlisting}[language=matlab, xleftmargin=0pt, backgroundcolor={\color{white}}, caption={}, frame=""]
+freq = (1:20)*1e9;
+R0 = 1e3;               % 1 km dystansu
+snowrate = [0.1 1.5 4]; % odpowiednik opadu deszczu mm/h
+
+for m = 1:numel(snowrate)
+snowloss(:,m) = snowpl(R0,freq,snowrate(m));
+end
+loglog(freq/1e9,snowloss);
+grid on;
+legend('Lekki śnieg','Średni śnieg','Mocny śnieg', ...
+'Location','SouthEast');
+xlabel('Częstotliwość (GHz)');
+ylabel('Tłumienie na dystansie 1 km (dB)')
+title('Tłumienie śniegu');
+\end{lstlisting}
+
+\section{Symulacja na dystansie 5 km podczas opadu śniegu}
+\begin{lstlisting}[language=matlab, xleftmargin=0pt, backgroundcolor={\color{white}}, caption={}, frame=""]
+freq = (1:20)*1e9;
+R0 = 5e3;               % 5 km dystansu
+snowrate = [0.1 1.5 4]; % odpowiednik opadu deszczu mm/h
+
+for m = 1:numel(snowrate)
+snowloss(:,m) = snowpl(R0,freq,snowrate(m));
+end
+loglog(freq/1e9,snowloss);
+grid on;
+legend('Lekki śnieg','Średni śnieg','Mocny śnieg', ...
+'Location','SouthEast');
+xlabel('Częstotliwość (GHz)');
+ylabel('Tłumienie na dystansie 1 km (dB)')
+title('Tłumienie śniegu');
+\end{lstlisting}

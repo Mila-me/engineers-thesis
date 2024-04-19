@@ -1,0 +1,26 @@
+1. Wstep
+	1.1 Cel i zakres pracy
+	1.2 Opis problemu inżynierskiego
+2. Standard komunikacji Lora 
+	2.1 Standard komunikacji Lora - podstawowe informacje
+	2.2 Rozwój standardu Lora
+	2.3 Specyfikacje standardu Lora
+	2.4 Przykładowe zastosowania standardu komunikacji Lora
+3. Standard komunikacji Bluetooth Low Energy
+	3.1 Standard komunikacji Bluetooth LE - podstawowe informacje
+	3.2 Rozwój standardu Bluetooth LE
+	3.3 Specyfikacje standardu Bluetooth LE
+	3.4 Przykładowe zastosowania standardu komunikacji Bluetooth LE
+4. Implementacja dedykowanego systemu komunikacji w oparciu o standardy Lora i Bluetooth LE
+	4.1 Propozycja rozwiązania - schemat systemu
+	4.2 Proponowane elementy systemu komunikacji
+	4.3 Aplikacja na mikrokontroler Raspberry Pi Pico (RP2040)
+	4.4 Aplikacja na telefony z systemem Android
+5. Testy
+	5.1 Testy eksperymentalne
+	5.2 Testy w postaci symulacji komputerowej
+6. Podsumowanie
+Bibliografia
+Wykaz symboli i skrótów
+Spis rysunków
+Spis tabel

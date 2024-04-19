@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.3.31) (format=lualatex 2024.4.7)  8 APR 2024 19:46
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.3.31) (format=lualatex 2024.4.7)  19 APR 2024 23:21
  restricted system commands enabled.
 **praca_dyplomowa2.tex
 (./praca_dyplomowa2.tex
@@ -632,12 +632,12 @@ Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz.
 oss-polish.ldf"
 File: gloss-polish.ldf polyglossia: module for Polish
 Module polyglossia Info: Language data for polish
+(polyglossia)            hyphenation	hyph-pl.hyp.txt
 (polyglossia)            loader	loadhyph-pl.tex
 (polyglossia)            synonyms	
 (polyglossia)            lefthyphenmin	2
-(polyglossia)            hyphenation	hyph-pl.hyp.txt
-(polyglossia)            righthyphenmin	2
-(polyglossia)            patterns	hyph-pl.pat.txt on input line 14
+(polyglossia)            patterns	hyph-pl.pat.txt
+(polyglossia)            righthyphenmin	2 on input line 14
 Module polyglossia Info: Language polish was not yet loaded; created with id 2 o
 n input line 14
 
@@ -1901,7 +1901,7 @@ uage plk
 Package hyperref Info: bookmark on input line 4:
 (hyperref)             thecounter {1.1}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Tło}
+ {\csname thesection\endcsname }\fi Tło historyczne}
 (hyperref)             reference {section.1.1}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
@@ -1915,28 +1915,18 @@ uage plk
 Package hyperref Info: bookmark on input line 7:
 (hyperref)             thecounter {1.2}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Cel}
+ {\csname thesection\endcsname }\fi Cel i zakres pracy}
 (hyperref)             reference {section.1.2}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 Package hyperref Info: Reference (cite) `cite.enwiki:lora' on input line 9.
-Package hyperref Info: Anchor `section.1.3' on input line 11.
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-Package hyperref Info: bookmark on input line 11:
-(hyperref)             thecounter {1.3}
-(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Szablon}
-(hyperref)             reference {section.1.3}
-(hyperref)             toclevel {1}
-(hyperref)             type {toc}.
-Package hyperref Info: Anchor `Item.1' on input line 14.
-Package hyperref Info: Anchor `Item.2' on input line 15.
-Package hyperref Info: Anchor `Item.3' on input line 16.
-Package hyperref Info: Anchor `Item.4' on input line 17.
-Package hyperref Info: Anchor `Item.5' on input line 18.
-Package hyperref Info: Anchor `Item.6' on input line 19.
-Package hyperref Info: Anchor `Item.7' on input line 20.
+Package hyperref Info: Anchor `Item.1' on input line 13.
+Package hyperref Info: Anchor `Item.2' on input line 14.
+Package hyperref Info: Anchor `Item.3' on input line 15.
+Package hyperref Info: Anchor `Item.4' on input line 16.
+Package hyperref Info: Anchor `Item.5' on input line 17.
+Package hyperref Info: Anchor `Item.6' on input line 18.
+Package hyperref Info: Anchor `Item.7' on input line 19.
 ) (./chapter2.tex
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
@@ -1989,7 +1979,8 @@ uage plk
 Package hyperref Info: bookmark on input line 12:
 (hyperref)             thecounter {2.2}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Lora}
+ {\csname thesection\endcsname }\fi Standard komunikacji Lora - podstawowe info
+rmacje}
 (hyperref)             reference {section.2.2}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
@@ -2000,7 +1991,7 @@ uage plk
 Package hyperref Info: bookmark on input line 18:
 (hyperref)             thecounter {2.3}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Bluetooth LE}
+ {\csname thesection\endcsname }\fi Rozwój standardu Lora}
 (hyperref)             reference {section.2.3}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
@@ -2021,12 +2012,23 @@ uage plk
 Package hyperref Info: bookmark on input line 28:
 (hyperref)             thecounter {2.4}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Micropython}
+ {\csname thesection\endcsname }\fi Specyfikacje standardu Lora}
 (hyperref)             reference {section.2.4}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 Package hyperref Info: Reference (cite) `cite.wiki:micropython:2024' on input l
 ine 31.
+Package hyperref Info: Anchor `section.2.5' on input line 32.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 32:
+(hyperref)             thecounter {2.5}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Przykładowe zastosowania standardu komunik
+acji Lora}
+(hyperref)             reference {section.2.5}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
 ) (./chapter3.tex
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
@@ -2059,8 +2061,40 @@ uage plk
 Package hyperref Info: bookmark on input line 4:
 (hyperref)             thecounter {3.1}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Schemat systemu}
+ {\csname thesection\endcsname }\fi Standard komunikacji Bluetooth LE - podstaw
+owe informacje}
 (hyperref)             reference {section.3.1}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.2' on input line 8.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 8:
+(hyperref)             thecounter {3.2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Rozwój standardu Bluetooth LE}
+(hyperref)             reference {section.3.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.3' on input line 9.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 9:
+(hyperref)             thecounter {3.3}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Specyfikacje standardu Bluetooth LE}
+(hyperref)             reference {section.3.3}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `section.3.4' on input line 10.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: bookmark on input line 10:
+(hyperref)             thecounter {3.4}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi Przykładowe zastosowania standardu komunik
+acji Bluetooth LE}
+(hyperref)             reference {section.3.4}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 ) (./chapter4.tex
@@ -2103,7 +2137,7 @@ Package hyperref Info: bookmark on input line 5:
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.2' on input line 8.
-<./grafika/num_sim1_straty_na_sciezce.png, id=136, 421.575pt x 316.18124pt>
+<./grafika/num_sim1_straty_na_sciezce.png, id=140, 421.575pt x 316.18124pt>
 File: ./grafika/num_sim1_straty_na_sciezce.png Graphic file (type png)
 <use ./grafika/num_sim1_straty_na_sciezce.png>
 Package luatex.def Info: ./grafika/num_sim1_straty_na_sciezce.png  used on inpu
@@ -2122,7 +2156,7 @@ uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.3' on input line 19.
-<./grafika/num_sim2_tlumienie_podczas_opadu_deszczu.png, id=138, 421.575pt x 31
+<./grafika/num_sim2_tlumienie_podczas_opadu_deszczu.png, id=142, 421.575pt x 31
 6.18124pt>
 File: ./grafika/num_sim2_tlumienie_podczas_opadu_deszczu.png Graphic file (type
  png)
@@ -2141,12 +2175,12 @@ nej polaryzacji na dystansie 5 km}}
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.4' on input line 26.
-<./grafika/num_sim3_tlumienie_podczas_opadu_sniegu_1km.png, id=139, 421.575pt x
+<./grafika/num_sim3_tlumienie_podczas_opadu_sniegu_1km.png, id=143, 421.575pt x
  316.18124pt>
 File: ./grafika/num_sim3_tlumienie_podczas_opadu_sniegu_1km.png Graphic file (t
 ype png)
@@ -2169,12 +2203,12 @@ uage plk
 Package hyperref Info: Anchor `page.9' on input line 31.
 [9<./grafika/num_sim1_straty_na_sciezce.png>]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.5' on input line 32.
-<./grafika/num_sim4_tlumienie_podczas_opadu_sniegu_5km.png, id=146, 421.575pt x
+<./grafika/num_sim4_tlumienie_podczas_opadu_sniegu_5km.png, id=150, 421.575pt x
  316.18124pt>
 File: ./grafika/num_sim4_tlumienie_podczas_opadu_sniegu_5km.png Graphic file (t
 ype png)
@@ -2193,7 +2227,7 @@ nsie 5 km}}
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package hyperref Info: Anchor `section.4.2' on input line 39.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -2210,10 +2244,12 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `page.10' on input line 3.
  [10<./grafika/num_sim2_tlumienie_podczas_opadu_deszczu.png>]
+
+LaTeX Warning: Text page 11 contains only floats.
+
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `page.11' on input line 3.
-
 [11<./grafika/num_sim3_tlumienie_podczas_opadu_sniegu_1km.png><./grafika/num_sim
 4_tlumienie_podczas_opadu_sniegu_5km.png>]
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -2894,16 +2930,18 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 39452 strings out of 476435
- 156289,1977958 words of node,token memory allocated
- 1982 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 28 glue, 4 kern, 34 glyph, 72 attribute, 222 glue_s
-pec, 38 attribute_list, 2 write, 6 pdf_action nodes
-   avail lists: 1:1,2:4569,3:385,4:836,5:2681,6:128,7:8163,8:80,9:3869,10:36,11:
-1174
+ 39456 strings out of 476435
+ 156287,1977958 words of node,token memory allocated
+ 1964 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 27 glue, 4 kern, 34 glyph, 70 attribute, 221 glue_s
+pec, 37 attribute_list, 2 write, 6 pdf_action nodes
+   avail lists: 1:1,2:4569,3:385,4:836,5:2749,6:128,7:8323,8:80,9:3869,10:36,11:
+1206
  60597 multiletter control sequences out of 65536+600000
- 87 fonts using 54101719 bytes
+ 87 fonts using 54101679 bytes
  91i,12n,115p,2423b,1522s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+warning  (pdf backend): unreferenced destination with name 'section.1.3'
 <C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm-m
 ath/latinmodern-math.otf><C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/f
 onts/opentype/public/lm/lmmono10-regular.otf><C:/Users/Emil Michalik/AppData/Loc
@@ -2914,9 +2952,9 @@ onts/opentype/public/simple-resume-cv/freeserifbold.otf><C:/WINDOWS/Fonts/notosa
 ns-variablefont_wdth,wght.ttf><C:/Users/Emil Michalik/AppData/Local/Programs/MiK
 TeX/fonts/opentype/public/lm/lmmono12-regular.otf><C:/Users/Emil Michalik/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on praca_dyplomowa2.pdf (38 pages, 362402 bytes).
+Output written on praca_dyplomowa2.pdf (38 pages, 363298 bytes).
 
-PDF statistics: 522 PDF objects out of 1000 (max. 8388607)
- 245 named destinations out of 1000 (max. 131072)
+PDF statistics: 526 PDF objects out of 1000 (max. 8388607)
+ 249 named destinations out of 1000 (max. 131072)
  75 words of extra memory for PDF output out of 10000 (max. 100000000)
 

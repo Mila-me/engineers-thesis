@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.3.31) (format=lualatex 2024.4.7)  19 APR 2024 23:21
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.3.31) (format=lualatex 2024.4.7)  20 APR 2024 18:50
  restricted system commands enabled.
 **praca_dyplomowa2.tex
 (./praca_dyplomowa2.tex
@@ -632,12 +632,12 @@ Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz.
 oss-polish.ldf"
 File: gloss-polish.ldf polyglossia: module for Polish
 Module polyglossia Info: Language data for polish
-(polyglossia)            hyphenation	hyph-pl.hyp.txt
-(polyglossia)            loader	loadhyph-pl.tex
 (polyglossia)            synonyms	
-(polyglossia)            lefthyphenmin	2
+(polyglossia)            hyphenation	hyph-pl.hyp.txt
 (polyglossia)            patterns	hyph-pl.pat.txt
-(polyglossia)            righthyphenmin	2 on input line 14
+(polyglossia)            loader	loadhyph-pl.tex
+(polyglossia)            righthyphenmin	2
+(polyglossia)            lefthyphenmin	2 on input line 14
 Module polyglossia Info: Language polish was not yet loaded; created with id 2 o
 n input line 14
 
@@ -1765,21 +1765,12 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
+Package hyperref Info: Reference (link) `chapter.2' on input line 6.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.1.3' on input line 6.
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-Package hyperref Info: Reference (link) `chapter.2' on input line 7.
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-Package hyperref Info: Reference (link) `section.2.1' on input line 8.
+Package hyperref Info: Reference (link) `section.2.1' on input line 7.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -1788,7 +1779,7 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.2.2' on input line 9.
+Package hyperref Info: Reference (link) `section.2.2' on input line 8.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -1797,7 +1788,7 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.2.3' on input line 10.
+Package hyperref Info: Reference (link) `section.2.3' on input line 9.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -1806,7 +1797,16 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.2.4' on input line 11.
+Package hyperref Info: Reference (link) `section.2.4' on input line 10.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.2.5' on input line 11.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -1821,12 +1821,11 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `chapter.4' on input line 14.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.4.1' on input line 15.
+Package hyperref Info: Reference (link) `section.3.2' on input line 14.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -1835,16 +1834,44 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.4.2' on input line 16.
+Package hyperref Info: Reference (link) `section.3.3' on input line 15.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `chapter.5' on input line 17.
-Package hyperref Info: Reference (link) `chapter*.6' on input line 18.
-Package hyperref Info: Reference (link) `section*.7' on input line 19.
-Package hyperref Info: Reference (link) `section*.8' on input line 20.
-Package hyperref Info: Reference (link) `section*.9' on input line 21.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.3.4' on input line 16.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter.4' on input line 17.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.4.1' on input line 18.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.4.2' on input line 19.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `chapter.5' on input line 20.
+Package hyperref Info: Reference (link) `chapter*.6' on input line 21.
+Package hyperref Info: Reference (link) `section*.7' on input line 22.
+Package hyperref Info: Reference (link) `section*.8' on input line 23.
+Package hyperref Info: Reference (link) `section*.9' on input line 24.
 ) (./chapter1.tex
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
@@ -1856,22 +1883,25 @@ Package `hyperref' Info: End of reference (link) `section*.1', line 2.
 Package `hyperref' Info: End of reference (link) `chapter.1', line 3.
 Package `hyperref' Info: End of reference (link) `section.1.1', line 4.
 Package `hyperref' Info: End of reference (link) `section.1.2', line 5.
-Package `hyperref' Info: End of reference (link) `section.1.3', line 6.
-Package `hyperref' Info: End of reference (link) `chapter.2', line 7.
-Package `hyperref' Info: End of reference (link) `section.2.1', line 8.
-Package `hyperref' Info: End of reference (link) `section.2.2', line 9.
-Package `hyperref' Info: End of reference (link) `section.2.3', line 10.
-Package `hyperref' Info: End of reference (link) `section.2.4', line 11.
+Package `hyperref' Info: End of reference (link) `chapter.2', line 6.
+Package `hyperref' Info: End of reference (link) `section.2.1', line 7.
+Package `hyperref' Info: End of reference (link) `section.2.2', line 8.
+Package `hyperref' Info: End of reference (link) `section.2.3', line 9.
+Package `hyperref' Info: End of reference (link) `section.2.4', line 10.
+Package `hyperref' Info: End of reference (link) `section.2.5', line 11.
 Package `hyperref' Info: End of reference (link) `chapter.3', line 12.
 Package `hyperref' Info: End of reference (link) `section.3.1', line 13.
-Package `hyperref' Info: End of reference (link) `chapter.4', line 14.
-Package `hyperref' Info: End of reference (link) `section.4.1', line 15.
-Package `hyperref' Info: End of reference (link) `section.4.2', line 16.
-Package `hyperref' Info: End of reference (link) `chapter.5', line 17.
-Package `hyperref' Info: End of reference (link) `chapter*.6', line 18.
-Package `hyperref' Info: End of reference (link) `section*.7', line 19.
-Package `hyperref' Info: End of reference (link) `section*.8', line 20.
-Package `hyperref' Info: End of reference (link) `section*.9', line 21.
+Package `hyperref' Info: End of reference (link) `section.3.2', line 14.
+Package `hyperref' Info: End of reference (link) `section.3.3', line 15.
+Package `hyperref' Info: End of reference (link) `section.3.4', line 16.
+Package `hyperref' Info: End of reference (link) `chapter.4', line 17.
+Package `hyperref' Info: End of reference (link) `section.4.1', line 18.
+Package `hyperref' Info: End of reference (link) `section.4.2', line 19.
+Package `hyperref' Info: End of reference (link) `chapter.5', line 20.
+Package `hyperref' Info: End of reference (link) `chapter*.6', line 21.
+Package `hyperref' Info: End of reference (link) `section*.7', line 22.
+Package `hyperref' Info: End of reference (link) `section*.8', line 23.
+Package `hyperref' Info: End of reference (link) `section*.9', line 24.
 ]
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
@@ -2137,7 +2167,7 @@ Package hyperref Info: bookmark on input line 5:
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.2' on input line 8.
-<./grafika/num_sim1_straty_na_sciezce.png, id=140, 421.575pt x 316.18124pt>
+<./grafika/num_sim1_straty_na_sciezce.png, id=142, 421.575pt x 316.18124pt>
 File: ./grafika/num_sim1_straty_na_sciezce.png Graphic file (type png)
 <use ./grafika/num_sim1_straty_na_sciezce.png>
 Package luatex.def Info: ./grafika/num_sim1_straty_na_sciezce.png  used on inpu
@@ -2156,7 +2186,7 @@ uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.3' on input line 19.
-<./grafika/num_sim2_tlumienie_podczas_opadu_deszczu.png, id=142, 421.575pt x 31
+<./grafika/num_sim2_tlumienie_podczas_opadu_deszczu.png, id=144, 421.575pt x 31
 6.18124pt>
 File: ./grafika/num_sim2_tlumienie_podczas_opadu_deszczu.png Graphic file (type
  png)
@@ -2180,7 +2210,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.4' on input line 26.
-<./grafika/num_sim3_tlumienie_podczas_opadu_sniegu_1km.png, id=143, 421.575pt x
+<./grafika/num_sim3_tlumienie_podczas_opadu_sniegu_1km.png, id=145, 421.575pt x
  316.18124pt>
 File: ./grafika/num_sim3_tlumienie_podczas_opadu_sniegu_1km.png Graphic file (t
 ype png)
@@ -2208,7 +2238,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `figure.caption.5' on input line 32.
-<./grafika/num_sim4_tlumienie_podczas_opadu_sniegu_5km.png, id=150, 421.575pt x
+<./grafika/num_sim4_tlumienie_podczas_opadu_sniegu_5km.png, id=152, 421.575pt x
  316.18124pt>
 File: ./grafika/num_sim4_tlumienie_podczas_opadu_sniegu_5km.png Graphic file (t
 ype png)
@@ -2494,23 +2524,14 @@ LaTeX Info: Redefining \ttfamily on input line 1.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 set lang polish, 2
-Package hyperref Info: Reference (link) `appendix.A' on input line 23.
-Package hyperref Info: Reference (link) `appendix.B' on input line 24.
-Package hyperref Info: Reference (link) `appendix.C' on input line 25.
+Package hyperref Info: Reference (link) `appendix.A' on input line 26.
+Package hyperref Info: Reference (link) `appendix.B' on input line 27.
+Package hyperref Info: Reference (link) `appendix.C' on input line 28.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.C.1' on input line 26.
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
-uage plk
-Package hyperref Info: Reference (link) `section.C.2' on input line 27.
+Package hyperref Info: Reference (link) `section.C.1' on input line 29.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -2519,7 +2540,7 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.C.3' on input line 28.
+Package hyperref Info: Reference (link) `section.C.2' on input line 30.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -2528,7 +2549,16 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
-Package hyperref Info: Reference (link) `section.C.4' on input line 29.
+Package hyperref Info: Reference (link) `section.C.3' on input line 31.
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
+uage plk
+Package hyperref Info: Reference (link) `section.C.4' on input line 32.
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
@@ -2537,13 +2567,13 @@ luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
 Package hyperref Info: Anchor `page.23' on input line 1.
  [23
-Package `hyperref' Info: End of reference (link) `appendix.A', line 23.
-Package `hyperref' Info: End of reference (link) `appendix.B', line 24.
-Package `hyperref' Info: End of reference (link) `appendix.C', line 25.
-Package `hyperref' Info: End of reference (link) `section.C.1', line 26.
-Package `hyperref' Info: End of reference (link) `section.C.2', line 27.
-Package `hyperref' Info: End of reference (link) `section.C.3', line 28.
-Package `hyperref' Info: End of reference (link) `section.C.4', line 29.
+Package `hyperref' Info: End of reference (link) `appendix.A', line 26.
+Package `hyperref' Info: End of reference (link) `appendix.B', line 27.
+Package `hyperref' Info: End of reference (link) `appendix.C', line 28.
+Package `hyperref' Info: End of reference (link) `section.C.1', line 29.
+Package `hyperref' Info: End of reference (link) `section.C.2', line 30.
+Package `hyperref' Info: End of reference (link) `section.C.3', line 31.
+Package `hyperref' Info: End of reference (link) `section.C.4', line 32.
 ]
 luaotfload | aux : font no 39 (nil) defines no feature for script latn with lang
 uage plk
@@ -2930,7 +2960,7 @@ L3 programming layer <2020/03/25>
 )
 
 Here is how much of LuaTeX's memory you used:
- 39456 strings out of 476435
+ 39455 strings out of 476435
  156287,1977958 words of node,token memory allocated
  1964 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 27 glue, 4 kern, 34 glyph, 70 attribute, 221 glue_s
@@ -2938,10 +2968,8 @@ pec, 37 attribute_list, 2 write, 6 pdf_action nodes
    avail lists: 1:1,2:4569,3:385,4:836,5:2749,6:128,7:8323,8:80,9:3869,10:36,11:
 1206
  60597 multiletter control sequences out of 65536+600000
- 87 fonts using 54101679 bytes
+ 87 fonts using 54101719 bytes
  91i,12n,115p,2423b,1522s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-warning  (pdf backend): unreferenced destination with name 'section.1.3'
 <C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm-m
 ath/latinmodern-math.otf><C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/f
 onts/opentype/public/lm/lmmono10-regular.otf><C:/Users/Emil Michalik/AppData/Loc
@@ -2952,9 +2980,9 @@ onts/opentype/public/simple-resume-cv/freeserifbold.otf><C:/WINDOWS/Fonts/notosa
 ns-variablefont_wdth,wght.ttf><C:/Users/Emil Michalik/AppData/Local/Programs/MiK
 TeX/fonts/opentype/public/lm/lmmono12-regular.otf><C:/Users/Emil Michalik/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on praca_dyplomowa2.pdf (38 pages, 363298 bytes).
+Output written on praca_dyplomowa2.pdf (38 pages, 364242 bytes).
 
-PDF statistics: 526 PDF objects out of 1000 (max. 8388607)
- 249 named destinations out of 1000 (max. 131072)
+PDF statistics: 528 PDF objects out of 1000 (max. 8388607)
+ 248 named destinations out of 1000 (max. 131072)
  75 words of extra memory for PDF output out of 10000 (max. 100000000)
 

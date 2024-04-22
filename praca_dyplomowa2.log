@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.3.31) (format=lualatex 2024.4.7)  20 APR 2024 18:50
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.3.31) (format=lualatex 2024.4.7)  22 APR 2024 03:31
  restricted system commands enabled.
 **praca_dyplomowa2.tex
 (./praca_dyplomowa2.tex
@@ -632,12 +632,12 @@ Package polyglossia Info: Setting LuaTeX font renderer to Harfbuzz.
 oss-polish.ldf"
 File: gloss-polish.ldf polyglossia: module for Polish
 Module polyglossia Info: Language data for polish
-(polyglossia)            synonyms	
-(polyglossia)            hyphenation	hyph-pl.hyp.txt
-(polyglossia)            patterns	hyph-pl.pat.txt
-(polyglossia)            loader	loadhyph-pl.tex
 (polyglossia)            righthyphenmin	2
-(polyglossia)            lefthyphenmin	2 on input line 14
+(polyglossia)            loader	loadhyph-pl.tex
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            patterns	hyph-pl.pat.txt
+(polyglossia)            hyphenation	hyph-pl.hyp.txt
+(polyglossia)            synonyms	 on input line 14
 Module polyglossia Info: Language polish was not yet loaded; created with id 2 o
 n input line 14
 
@@ -2980,7 +2980,7 @@ onts/opentype/public/simple-resume-cv/freeserifbold.otf><C:/WINDOWS/Fonts/notosa
 ns-variablefont_wdth,wght.ttf><C:/Users/Emil Michalik/AppData/Local/Programs/MiK
 TeX/fonts/opentype/public/lm/lmmono12-regular.otf><C:/Users/Emil Michalik/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on praca_dyplomowa2.pdf (38 pages, 364242 bytes).
+Output written on praca_dyplomowa2.pdf (38 pages, 364333 bytes).
 
 PDF statistics: 528 PDF objects out of 1000 (max. 8388607)
  248 named destinations out of 1000 (max. 131072)

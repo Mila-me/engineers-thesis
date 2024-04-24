@@ -30,3 +30,18 @@
 \contentsline {section}{\numberline {C.2}Symulacja na dystansie 5 km podczas opadu deszczu}{29}{section.C.2}%
 \contentsline {section}{\numberline {C.3}Symulacja na dystansie 1 km podczas opadu śniegu}{29}{section.C.3}%
 \contentsline {section}{\numberline {C.4}Symulacja na dystansie 5 km podczas opadu śniegu}{30}{section.C.4}%
+\contentsline {appendix}{\chapternumberline {D}Kody źródłowe symulacji numerycznych w programie Matlab}{31}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Symulacja na ścieżce w przestrzeni wolnej}{31}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Symulacja na dystansie 5 km podczas opadu deszczu}{31}{section.D.2}%
+\contentsline {section}{\numberline {D.3}Symulacja na dystansie 1 km podczas opadu śniegu}{31}{section.D.3}%
+\contentsline {section}{\numberline {D.4}Symulacja na dystansie 5 km podczas opadu śniegu}{32}{section.D.4}%
+\contentsline {appendix}{\chapternumberline {E}Kody źródłowe symulacji numerycznych w programie Matlab}{33}{appendix.E}%
+\contentsline {section}{\numberline {E.1}Symulacja na ścieżce w przestrzeni wolnej}{33}{section.E.1}%
+\contentsline {section}{\numberline {E.2}Symulacja na dystansie 5 km podczas opadu deszczu}{33}{section.E.2}%
+\contentsline {section}{\numberline {E.3}Symulacja na dystansie 1 km podczas opadu śniegu}{33}{section.E.3}%
+\contentsline {section}{\numberline {E.4}Symulacja na dystansie 5 km podczas opadu śniegu}{34}{section.E.4}%
+\contentsline {appendix}{\chapternumberline {F}Kody źródłowe symulacji numerycznych w programie Matlab}{35}{appendix.F}%
+\contentsline {section}{\numberline {F.1}Symulacja na ścieżce w przestrzeni wolnej}{35}{section.F.1}%
+\contentsline {section}{\numberline {F.2}Symulacja na dystansie 5 km podczas opadu deszczu}{35}{section.F.2}%
+\contentsline {section}{\numberline {F.3}Symulacja na dystansie 1 km podczas opadu śniegu}{35}{section.F.3}%
+\contentsline {section}{\numberline {F.4}Symulacja na dystansie 5 km podczas opadu śniegu}{36}{section.F.4}%

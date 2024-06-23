@@ -1,0 +1,136 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Bachelor's & Master's Thesis Template             %%
+%% Copyleft by Artur M. Brodzki & Piotr Woźniak      %%
+%% Faculty of Electronics and Information Technology %%
+%% Warsaw University of Technology, 2019-2020        %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[
+    left=2.5cm,         % Sadly, generic margin parameter
+    right=2.5cm,        % doesnt't work, as it is
+    top=2.5cm,          % superseded by more specific
+    bottom=3cm,         % left...bottom parameters.
+    bindingoffset=6mm,  % Optional binding offset.
+    nohyphenation=false % You may turn off hyphenation, if don't like.
+]{eiti/eiti-thesis}
+
+\langpol % Dla języka angielskiego mamy \langeng
+\graphicspath{{img/}}             % Katalog z obrazkami.
+\addbibresource{bibliografia.bib} % Plik .bib z bibliografią
+
+\begin{document}
+
+%--------------------------------------
+% Strona tytułowa
+%--------------------------------------
+\EngineerThesis % Dla pracy inżynierskiej mamy \EngineerThesis
+\instytut{Mikroelektroniki i Optoelektroniki}
+\kierunek{Elektronika i Telekomunikacja}
+\specjalnosc{Inżynieria Komputerowa}
+\title{
+    Dedykowany system komunikacji z wykorzystaniem \\
+    protokołu Lora
+}
+\engtitle{ % Tytuł po angielsku do angielskiego streszczenia
+    Dedicated communication system using Lora protocol
+}
+\author{{Emil Michalik}}
+\album{280293}
+\promotor{dr inż. Marek Niewiński}
+\date{\the\year}
+\maketitle
+
+%--------------------------------------
+% Streszczenie po polsku
+%--------------------------------------
+\cleardoublepage % Zaczynamy od nieparzystej strony
+\streszczenie
+Niniejsza praca dotyczy konstrukcji dedykowanego systemu komunikacji z wykorzystaniem protokołu Lora.
+Do zakresu pracy należało wykonanie oraz przetestowanie systemu, który służył do komunikacji przy użyciu aplikacji na smartfon z systemem Android - napisanej w języku Kotlin, jak i urządzenia zewnętrznego czyli mikrokontrolera w dedykowanej obudowie wraz z modułem dającym możliwość do komunikacji przy użyciu protokołu Lora, w paśmie poniżej 1 GHz.
+\slowakluczowe raspberry pico, lora, mikrokontroler, android, kotlin, micropython
+
+%--------------------------------------
+% Streszczenie po angielsku
+%--------------------------------------
+\newpage
+\abstract
+This Engineering Thesis concers the construction of a dedicated communication system using the Lora protocol.
+The scope of work refers to building and testing a system, which enables user to communicate using application on the smartphone with Android operating system - written in Kotlin programming language, and also device in dedicated case with module which allows to communicate using the Lora protocol in the frequency lower than 1 Ghz.
+\keywords raspberry pico, lora, microcontroller, android, kotlin, micropython
+
+%--------------------------------------
+% Oświadczenie o autorstwie
+%--------------------------------------
+\cleardoublepage  % Zaczynamy od nieparzystej strony
+\pagestyle{plain}
+\makeauthorship
+
+%--------------------------------------
+% Spis treści
+%--------------------------------------
+\cleardoublepage % Zaczynamy od nieparzystej strony
+\tableofcontents
+
+%--------------------------------------
+% Rozdziały
+%--------------------------------------
+\cleardoublepage % Zaczynamy od nieparzystej strony
+\pagestyle{headings}
+
+\input{tex/1-wstep}         % Wygodnie jest trzymać każdy rozdział w osobnym pliku.
+\input{tex/2-standard-komunikacji-lora} 
+\input{tex/2-de-finibus}    % Umożliwia to również łatwą migrację do nowej wersji szablonu:
+\input{tex/3-code-listings} % wystarczy podmienić swoje pliki main.tex i eiti-thesis.cls
+                            % na nowe wersje, a cały tekst pracy pozostaje nienaruszony.
+
+\newpage % Rozdziały zaczynamy od nowej strony
+\section{Summatio}          % Można też pisać rozdziały w jednym pliku.
+\lipsum[5-10]
+
+%--------------------------------------------
+% Literatura
+%--------------------------------------------
+\cleardoublepage % Zaczynamy od nieparzystej strony
+\printbibliography
+
+%--------------------------------------------
+% Spisy (opcjonalne)
+%--------------------------------------------
+\newpage
+\pagestyle{plain}
+
+% Wykaz symboli i skrótów.
+% Pamiętaj, żeby posortować symbole alfabetycznie
+% we własnym zakresie. Ponieważ mało kto używa takiego wykazu,
+% uznałem, że robienie automatycznie sortowanej listy
+% na poziomie LaTeXa to za duży overkill.
+% Makro \acronymlist generuje właściwy tytuł sekcji,
+% w zależności od języka.
+% Makro \acronym dodaje skrót/symbol do listy,
+% zapewniając podstawowe formatowanie.
+% //AB
+\vspace{0.8cm}
+\acronymlist
+\acronym{EiTI}{Wydział Elektroniki i Technik Informacyjnych}
+\acronym{PW}{Politechnika Warszawska}
+
+\listoffigurestoc     % Spis rysunków.
+\vspace{1cm}          % vertical space
+\listoftablestoc      % Spis tabel.
+\vspace{1cm}          % vertical space
+\listofappendicestoc  % Spis załączników
+
+% Załączniki
+\newpage
+\appendix{Nazwa załącznika 1}
+\lipsum[1-8]
+
+\newpage
+\appendix{Nazwa załącznika 2}
+\lipsum[1-4]
+
+% Używając powyższych spisów jako szablonu,
+% możesz tu dodać swój własny wykaz bądź listę,
+% np. spis algorytmów.
+
+\end{document} % Dobranoc.

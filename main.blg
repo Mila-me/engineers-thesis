@@ -1,0 +1,16 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[163] biber-MSWIN64:340> INFO - === 
+[211] Biber.pm:420> INFO - Reading 'main.bcf'
+[382] Biber.pm:994> INFO - Found 1 citekeys in bib section 0
+[409] Biber.pm:4463> INFO - Processing section 0
+[428] Biber.pm:4654> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
+[490] bibtex.pm:1713> INFO - LaTeX decoding ...
+[497] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
+[563] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[563] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[563] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'pl-PL'
+[565] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[565] bbl.pm:779> INFO - Output to main.bbl
+[566] Biber.pm:131> WARN - legacy year field '2023-04-15 05:11Z' in entry 'wiki:telegraf2023' is not an integer - this will probably not sort properly.
+[566] Biber.pm:133> INFO - WARNINGS: 1

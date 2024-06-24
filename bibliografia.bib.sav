@@ -4,4 +4,16 @@
   year  = {2023-04-15 05:11Z},
 }
 
+@Misc{lora,
+  title = {What is lora?},
+  year  = {2024},
+  url   = {https://www.semtech.com/lora/what-is-lora},
+}
+
+@Misc{loraapp,
+  title = {LoRa applications},
+  year  = {2024},
+  url   = {https://www.semtech.com/lora/resources/lora-white-papers},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

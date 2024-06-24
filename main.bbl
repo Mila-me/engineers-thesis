@@ -27,6 +27,32 @@
       \field{title}{{Telegraf} [online]. Wikipedia : wolna encyklopedia}
       \field{year}{2023-04-15 05:11Z}
     \endentry
+    \entry{lora}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{What is lora?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.semtech.com/lora/what-is-lora
+      \endverb
+      \verb{url}
+      \verb https://www.semtech.com/lora/what-is-lora
+      \endverb
+    \endentry
+    \entry{loraapp}{misc}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{LoRa applications}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.semtech.com/lora/resources/lora-white-papers
+      \endverb
+      \verb{url}
+      \verb https://www.semtech.com/lora/resources/lora-white-papers
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

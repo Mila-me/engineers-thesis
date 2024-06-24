@@ -1,16 +1,21 @@
 \babel@toc {polish}{}\relax 
 \contentsline {section}{\numberline {1\relax .\enspace }Wst\k ep}{9}{section.1}%
 \contentsline {subsection}{\numberline {1.1\relax .\enspace }Cele pracy}{9}{subsection.1.1}%
-\contentsline {section}{\numberline {2\relax .\enspace }De Finibus Bonorum et Malorum}{10}{section.2}%
-\contentsline {subsection}{\numberline {2.1\relax .\enspace }Critique of Pure Reason}{11}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2\relax .\enspace }Categorical Imperative}{13}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1\relax .\enspace }Deontological Ethics}{13}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2\relax .\enspace }Consequentialism -- the Ideal of practical reason}{14}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.3\relax .\enspace }G\"odel's ontological proof}{15}{subsection.2.3}%
-\contentsline {section}{\numberline {3\relax .\enspace }Code listings}{17}{section.3}%
-\contentsline {section}{\numberline {4\relax .\enspace }Summatio}{19}{section.4}%
-\contentsline {section}{Bibliografia}{21}{section*.4}%
-\contentsline {section}{Wykaz symboli i skr\'ot\'ow}{22}{section*.5}%
-\contentsline {section}{Spis rysunk\'ow}{22}{section*.5}%
-\contentsline {section}{Spis tabel}{22}{section*.5}%
-\contentsline {section}{Spis za\IeC {\l }\k acznik\'ow}{22}{section*.6}%
+\contentsline {section}{\numberline {2\relax .\enspace }Standard komunikacji Lora}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1\relax .\enspace }Wiadomo\'sci og\'olne}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2\relax .\enspace }Rozw\'oj}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3\relax .\enspace }Specyfikacje}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4\relax .\enspace }Przyk\IeC {\l }adowe zastosowania}{10}{subsection.2.4}%
+\contentsline {section}{\numberline {3\relax .\enspace }De Finibus Bonorum et Malorum}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1\relax .\enspace }Critique of Pure Reason}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2\relax .\enspace }Categorical Imperative}{15}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1\relax .\enspace }Deontological Ethics}{15}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2\relax .\enspace }Consequentialism -- the Ideal of practical reason}{16}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3\relax .\enspace }G\"odel's ontological proof}{17}{subsection.3.3}%
+\contentsline {section}{\numberline {4\relax .\enspace }Code listings}{18}{section.4}%
+\contentsline {section}{\numberline {5\relax .\enspace }Summatio}{20}{section.5}%
+\contentsline {section}{Bibliografia}{23}{section*.4}%
+\contentsline {section}{Wykaz symboli i skr\'ot\'ow}{24}{section*.5}%
+\contentsline {section}{Spis rysunk\'ow}{24}{section*.5}%
+\contentsline {section}{Spis tabel}{24}{section*.5}%
+\contentsline {section}{Spis za\IeC {\l }\k acznik\'ow}{24}{section*.6}%

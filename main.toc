@@ -6,16 +6,19 @@
 \contentsline {subsection}{\numberline {2.2\relax .\enspace }Rozw\'oj}{10}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3\relax .\enspace }Specyfikacja}{10}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4\relax .\enspace }Przyk\IeC {\l }adowe zastosowania}{10}{subsection.2.4}%
-\contentsline {section}{\numberline {3\relax .\enspace }De Finibus Bonorum et Malorum}{12}{section.3}%
-\contentsline {subsection}{\numberline {3.1\relax .\enspace }Critique of Pure Reason}{13}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2\relax .\enspace }Categorical Imperative}{15}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1\relax .\enspace }Deontological Ethics}{15}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2\relax .\enspace }Consequentialism -- the Ideal of practical reason}{16}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3\relax .\enspace }G\"odel's ontological proof}{17}{subsection.3.3}%
-\contentsline {section}{\numberline {4\relax .\enspace }Code listings}{18}{section.4}%
-\contentsline {section}{\numberline {5\relax .\enspace }Summatio}{20}{section.5}%
-\contentsline {section}{Bibliografia}{23}{section*.4}%
-\contentsline {section}{Wykaz symboli i skr\'ot\'ow}{24}{section*.5}%
-\contentsline {section}{Spis rysunk\'ow}{24}{section*.5}%
-\contentsline {section}{Spis tabel}{24}{section*.5}%
-\contentsline {section}{Spis za\IeC {\l }\k acznik\'ow}{24}{section*.6}%
+\contentsline {section}{\numberline {3\relax .\enspace }Standard Bluetooth}{12}{section.3}%
+\contentsline {section}{\numberline {4\relax .\enspace }Za\IeC {\l }o\.zenia projektowe}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1\relax .\enspace }Koncepcja wykonania}{13}{subsection.4.1}%
+\contentsline {section}{\numberline {5\relax .\enspace }Realizacja}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1\relax .\enspace }Konstrukcja dedykowanego urz\k adzenia}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2\relax .\enspace }Zasilanie}{14}{subsection.5.2}%
+\contentsline {section}{\numberline {6\relax .\enspace }Testowanie}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1\relax .\enspace }Prototyp testowy dedykowanego urz\k adzenia}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2\relax .\enspace }Prototyp aplikacji na Androida}{15}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3\relax .\enspace }Pomiar odleg\IeC {\l }o\'sci}{15}{subsection.6.3}%
+\contentsline {section}{\numberline {7\relax .\enspace }Podsumowanie}{16}{section.7}%
+\contentsline {section}{Bibliografia}{17}{section*.3}%
+\contentsline {section}{Wykaz symboli i skr\'ot\'ow}{18}{section*.4}%
+\contentsline {section}{Spis rysunk\'ow}{18}{section*.4}%
+\contentsline {section}{Spis tabel}{18}{section*.4}%
+\contentsline {section}{Spis za\IeC {\l }\k acznik\'ow}{18}{section*.5}%

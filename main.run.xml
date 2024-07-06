@@ -51,7 +51,6 @@
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
-      <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
@@ -61,10 +60,10 @@
       <file>numeric-comp.cbx</file>
       <file>ieee.cbx</file>
       <file>biblatex.cfg</file>
-      <file>polish.lbx</file>
+      <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
@@ -81,9 +80,6 @@
     </provides>
     <requires type="dynamic">
       <file>main.bcf</file>
-    </requires>
-    <requires type="editable">
-      <file>bibliografia.bib</file>
     </requires>
   </external>
 </requests>

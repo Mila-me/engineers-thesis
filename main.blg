@@ -1,16 +1,16 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[177] biber-MSWIN64:340> INFO - === 
-[230] Biber.pm:420> INFO - Reading 'main.bcf'
-[414] Biber.pm:994> INFO - Found 3 citekeys in bib section 0
-[441] Biber.pm:4463> INFO - Processing section 0
-[461] Biber.pm:4654> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
-[519] bibtex.pm:1713> INFO - LaTeX decoding ...
-[526] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
-[580] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[580] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[581] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'pl-PL'
-[591] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[592] bbl.pm:779> INFO - Output to main.bbl
-[592] Biber.pm:131> WARN - legacy year field '2023-04-15 05:11Z' in entry 'wiki:telegraf2023' is not an integer - this will probably not sort properly.
-[592] Biber.pm:133> INFO - WARNINGS: 1
+[274] biber-MSWIN64:340> INFO - === 
+[375] Biber.pm:420> INFO - Reading 'main.bcf'
+[571] Biber.pm:994> INFO - Found 2 citekeys in bib section 0
+[600] Biber.pm:4463> INFO - Processing section 0
+[639] Biber.pm:4654> INFO - Looking for bibtex file 'bibliografia.bib' for section 0
+[747] bibtex.pm:1713> INFO - LaTeX decoding ...
+[765] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliografia.bib'
+[851] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[851] UCollate.pm:68> INFO - Overriding locale 'pl-PL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[852] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'pl-PL'
+[895] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[896] bbl.pm:779> INFO - Output to main.bbl
+[896] Biber.pm:131> WARN - legacy year field '2023-04-15 05:11Z' in entry 'wiki:telegraf2023' is not an integer - this will probably not sort properly.
+[896] Biber.pm:133> INFO - WARNINGS: 1

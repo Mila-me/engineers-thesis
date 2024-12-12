@@ -1,5 +1,0 @@
-[0] Config.pm:308> INFO - This is Biber 2.20
-[1] Config.pm:311> INFO - Logfile is '3-standard-bluetooth.blg'
-[207] biber-MSWIN64:340> INFO - === 
-[786] Utils.pm:410> ERROR - Cannot find '3-standard-bluetooth.bcf'!
-[787] Biber.pm:136> INFO - ERRORS: 1

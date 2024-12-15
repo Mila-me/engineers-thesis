@@ -7,8 +7,8 @@ Przy realizacji niniejszej pracy przyjęto kilka założeń:
 	\item Komunikacja będzie odbywać się przy wykorzystaniu standardu Lora.
 	\item System będzie zaprojektowany z myślą o niskim poborze prądu, dzięki czemu będzie mógł być zasilany z baterii lub powerbanku.
 	\item Obudowa do urządzenia zewnętrznego będzie wykonana w technologii druku 3d.
-	\item Całość lub jeżeli to niemożliwe, to jak największa część systemu komunikacji zostanie opublikowana na otwartoźródłowej licencji.
+	\item Całość lub jeżeli to niemożliwe, to jak największa część systemu komunikacji zostanie opublikowana na otwarto-źródłowej licencji.
 \end{itemize}
 \subsection{Koncepcja wykonania}
-Pracę rozpoczęto od rozważenia różnych mikrokontrolerów, względy praktyczne jak i dostępność zadecydowały o wyborze Rasberry Pico (RP2040). Niestety powyższy mikrokontroler pozbawiony jest możliwości komunikacji bezprzewodowej, co też skutkuje tym, że trzeba do niego dobrać odpowiedni moduł Bluetooth, w tym wypadku hm-06, komunikujący się z mikro-kontrolerem przy użyciu UART\footnote{Uniwersalny asynchroniczny nadajnik-odbiornik.}
-Jeśli zaś chodzi o Lora, to możliwość komunikacji przy użyciu tego protokołu uzyskano dzięki użyciu odpowiedniej przystawki - SB Components SKU21628.
+Pracę rozpoczęto od rozważenia różnych mikro-kontrolerów, względy praktyczne jak i dostępność zadecydowały o wyborze Rasberry Pico (RP2040). Niestety powyższy mikro-kontroler pozbawiony jest możliwości komunikacji bezprzewodowej, co też skutkuje tym, że trzeba do niego dobrać odpowiedni moduł Bluetooth, w tym wypadku hm-06, komunikujący się z mikro-kontrolerem przy użyciu UART\footnote{Uniwersalny asynchroniczny nadajnik-odbiornik.}
+Jeśli zaś chodzi o Lora, to możliwość komunikacji przy użyciu tego protokołu uzyskano dzięki wykorzystaniu odpowiedniej przystawki - SB Components SKU21628.

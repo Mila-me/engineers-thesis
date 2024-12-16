@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.10.14)  15 DEC 2024 04:51
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.10.14)  15 DEC 2024 16:04
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1520,12 +1520,12 @@ Package hyperref Info: Link coloring ON on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<eiti/header.png, id=93, 483.7272pt x 76.8471pt>
+<eiti/header.png, id=97, 483.7272pt x 76.8471pt>
 File: eiti/header.png Graphic file (type png)
 <use eiti/header.png>
 Package luatex.def Info: eiti/header.png  used on input line 41.
 (luatex.def)             Requested size: 438.17247pt x 69.61084pt.
-<eiti/title-inz.png, id=94, 483.7272pt x 105.39375pt>
+<eiti/title-inz.png, id=98, 483.7272pt x 105.39375pt>
 File: eiti/title-inz.png Graphic file (type png)
 <use eiti/title-inz.png>
 Package luatex.def Info: eiti/title-inz.png  used on input line 41.
@@ -1547,7 +1547,7 @@ Package luatex.def Info: eiti/title-inz.png  used on input line 41.
 [4]
 warning  (file eiti/oswiadczenie_autora_pracy.pdf) (pdf inclusion): PDF inclusio
 n: found PDF version '1.7', but at most version '1.5' allowed
-<eiti/oswiadczenie_autora_pracy.pdf, id=114, 597.55244pt x 845.0772pt>
+<eiti/oswiadczenie_autora_pracy.pdf, id=118, 597.55244pt x 845.0772pt>
 File: eiti/oswiadczenie_autora_pracy.pdf Graphic file (type pdf)
 <use eiti/oswiadczenie_autora_pracy.pdf>
 Package luatex.def Info: eiti/oswiadczenie_autora_pracy.pdf  used on input line
@@ -1613,8 +1613,10 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 [8
 
 
-] (./tex/1-wstep.tex
-<img/telegraf.png, id=199, 493.845pt x 362.35374pt>
+] (./tex/0-dedykacja.tex) (./tex/1-wstep.tex
+
+[9]
+<img/telegraf.png, id=208, 493.845pt x 362.35374pt>
 File: img/telegraf.png Graphic file (type png)
 <use img/telegraf.png>
 Package luatex.def Info: img/telegraf.png  used on input line 10.
@@ -1633,7 +1635,7 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 7.35999pt on input line 17.
 ) (./tex/2-standard-komunikacji-lora.tex
 
-[9<./img/telegraf.png>]
+[10<./img/telegraf.png>]
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 6.99199pt on input line 10.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
@@ -1644,26 +1646,31 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 5.51999pt on input line 10.
 
 
-[10]) (./tex/3-standard-bluetooth.tex
+[11]) (./tex/3-standard-bluetooth.tex
 
-[11]) (./tex/4-zalozenia-projektowe.tex
+[12]) (./tex/4-zalozenia-projektowe.tex
 
-[12]) (./tex/5-realizacja.tex
+[13]) (./tex/5-realizacja.tex
 
-[13]) (./tex/6-testowanie.tex
+[14]) (./tex/6-testowanie.tex
 
-[14]) (./tex/7-podsumowanie.tex
+[15]) (./tex/7-podsumowanie.tex
 
-[15])
+[16])
 
-[16]
-Overfull \hbox (12.3648pt too wide) in paragraph at lines 99--99
+[17]
+
+[18
+
+
+]
+Overfull \hbox (12.3648pt too wide) in paragraph at lines 100--100
 []\T1/futs/m/it/12 Te-le-graf [on-line]. Wi-ki-pe-dia : wolna en-cy-klo-pe-dia\
 T1/futs/m/n/12 , [dost¦p: 2024-06-23 18:14Z]. Dost¦pny
  []
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
-8.
+9.
 ("C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd"
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1673,10 +1680,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-[17
-
-
-] (./main.lof)
+[19] (./main.lof)
 \tf@lof=\write6
 
 \openout6 = main.lof
@@ -1690,27 +1694,36 @@ Package microtype Info: Loading generic protrusion settings for font family
 \openout8 = main.app
 
 
-[18] (./main.aux)
+[20] (./main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 28AB03D1E0D05C73D49110DED61D85AB;3247.
+(rerunfilecheck)             Checksum: A9A4C030949A94294A5442EDD3253C1D;3319.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 28329 strings out of 475910
+ 28344 strings out of 475910
  100000,1977958 words of node,token memory allocated
  900 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 10 glue, 4 kern, 1 penalty, 3 glyph, 1
 8 attribute, 109 glue_spec, 11 attribute_list, 1 write nodes
-   avail lists: 1:3,2:1099,3:257,4:113,5:526,6:85,7:5683,8:41,9:457,10:12,11:533
+   avail lists: 1:3,2:1141,3:267,4:125,5:526,6:88,7:5683,8:41,9:473,10:12,11:533
 
- 50053 multiletter control sequences out of 65536+600000
+ 50059 multiletter control sequences out of 65536+600000
  161 fonts using 10049999 bytes
  123i,11n,114p,1087b,1844s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.e
@@ -1721,9 +1734,9 @@ urier/fourier-ms.pfb><C:/Users/Emil Michalik/AppData/Local/Programs/MiKTeX/fonts
 X/fonts/type1/adobe/utopia/putb8a.pfb><C:/Users/Emil Michalik/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Users/Emil Michalik/AppData/
 Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on main.pdf (18 pages, 425259 bytes).
+Output written on main.pdf (20 pages, 427655 bytes).
 
-PDF statistics: 284 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 131072)
- 185 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 297 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 131072)
+ 193 words of extra memory for PDF output out of 10000 (max. 100000000)
 
